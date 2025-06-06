@@ -1,0 +1,5 @@
+IPCC_Document,Wikipedia_Document,IPCC_Sentences_Count,Wikipedia_Sentences_Count,Mean_Similarity,Median_Similarity
+AR3_WG3_SPM.spacy,Wiki_CCM_2005-06-26.spacy,343,48,0.424,0.428
+AR4_WG3_SPM.spacy,Wiki_CCM_2008-05-07.spacy,558,263,0.473,0.483
+AR5_WG3_SPM.spacy,Wiki_CCM_2014-09-02.spacy,580,583,0.547,0.561
+AR6_WG3_SPM.spacy,Wiki_CCM_2022-06-13.spacy,896,786,0.553,0.572

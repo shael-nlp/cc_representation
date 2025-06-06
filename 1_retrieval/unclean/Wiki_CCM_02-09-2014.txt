@@ -1,0 +1,1268 @@
+[[File:Global Warming Observed CO2 Emissions from fossil fuel burning vs IPCC scenarios.svg|thumb|320px|Fossil fuel related CO2 emissions compared to five of IPCC's emissions scenarios. The dips are related to global recessions. Data from [http://www.ipcc.ch/ipccreports/sres/emission/data/allscen.xls IPCC SRES scenarios]; [http://www.iea.org/co2highlights/co2Highlights.XLS Data spreadsheet included with International Energy Agency's "CO2 Emissions from Fuel Combustion 2010 - Highlights"]; and [http://www.guardian.co.uk/environment/2011/may/29/carbon-emissions-nuclearpower Supplemental IEA data]. Image source: [[Skeptical Science]]]]
+[[File:Instrumental Temperature Record (NASA).svg|thumb|320px|Global [[Instrumental temperature record|average surface temperature]] 1880 to 2009. The [[Global dimming]], from [[sulfate aerosol]] air pollution, between 1950 to 1980 is believed to have mitigated global warming somewhat.]]
+[[File:Global Carbon Emissions.svg|thumb|320px|Global carbon dioxide emissions from human activities 1800–2007.<ref>Marland, G., T.A. Boden, and R. J. Andres. 2007. Global, Regional, and National CO2 Emissions. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, United States Department of Energy, Oak Ridge, Tenn., U.S.A.</ref>]]
+[[File:Greenhouse gas by sector 2000.svg|thumb|320px|[[Greenhouse gas]] emissions by sector. See [http://cait.wri.org/figures.php?page=World-FlowChart&view=100 World Resources Institute] for a detailed breakdown.]]
+
+'''Climate change mitigation''' are actions to limit the magnitude and/or rate of long-term [[global warming|climate change]].<ref>
+{{citation
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch3s3-5.html 3.5 Interaction between mitigation and adaptation, in the light of climate change impacts and decision-making under long-term uncertainty]
+ | author=Fisher, B.S., ''et al.''
+ | chapter=Ch. 3: Issues related to mitigation in the long-term context
+}}, in {{harvnb|IPCC AR4 WG3|2007}}
+</ref> Climate change mitigation generally involves reductions in human ([[anthropogenic]]) emissions of [[greenhouse gas]]es (GHGs).<ref name="ipcc mitigation options">
+{{citation
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/spmsspm-c.html Table SPM.3, C. Mitigation in the short and medium term (until 2030)]
+ | chapter=Summary for policymakers
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/spm.html
+ | author=IPCC
+}}, in {{harvnb|IPCC AR4 WG3|2007}}
+</ref> Mitigation may also be achieved by increasing the capacity of [[carbon sink]]s, e.g., through [[reforestation]].<ref name="ipcc mitigation options"/> Mitigation policies can substantially reduce the risks associated with human-induced global warming.<ref>Oppenheimer, M., ''et al.'', ''Section 19.7.1: Relationship between Adaptation Efforts, Mitigation Efforts, and Residual Impacts,'' in: [http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap19_FGDall.pdf Chapter 19: Emergent risks and key vulnerabilities] (archived [https://web.archive.org/web/20140708062559/http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap19_FGDall.pdf July 8 2014]), pp.46-49, in {{harvnb|IPCC AR5 WG2 A|2014}}
+</ref>
+
+Examples of mitigation include switching to [[low-carbon power|low-carbon energy]] sources, such as [[renewable energy|renewable]] and [[nuclear power|nuclear energy]], and expanding forests and other "sinks" to remove greater amounts of [[carbon dioxide in Earth's atmosphere|carbon dioxide]] from the atmosphere.<ref name="ipcc mitigation options"/> [[efficient energy use|Energy efficiency]] may also play a role,<ref>
+{{citation
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/syr/en/mains5-5.html Sec 5.5 Technology flows and development]
+ | chapter=Synthesis report
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/syr/en/main.html
+}}, in {{harvnb|IPCC AR4 SYR|2007|p=68}}
+</ref> for example, through improving the [[building insulation|insulation of buildings]].<ref>
+{{citation
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch6s6-4-2.html Sec 6.4.2 Thermal envelope]
+ | author=Levine, M., ''et al.''
+ | chapter=Ch 6: Residential and commercial buildings
+}}, in {{harvnb|IPCC AR4 WG3|2007}}
+</ref> Another approach to climate change mitigation is [[climate engineering]].<ref>
+{{harvnb|UK Royal Society|2009}}</ref>
+
+Most countries are parties to the [[United Nations Framework Convention on Climate Change]] (UNFCCC).<ref>
+{{citation
+ | title=Introduction to the Convention
+ | author=UNFCCC
+ | url=http://unfccc.int/key_steps/the_convention/items/6036.php
+ | publisher=UNFCCC
+ | date=5 March 2013
+}}
+</ref> The ultimate objective of the UNFCCC is to stabilize atmospheric concentrations of GHGs at a level that would prevent dangerous human interference of the climate system. <ref>
+{{citation
+| title=Full Text of the Convention, Article 2: Objectives
+| author=UNFCCC
+| url=http://unfccc.int/essential_background/convention/background/items/1353.php
+| publisher=UNFCCC
+| date=2002
+}}
+</ref> Scientific analysis can provide information on the impacts of climate change, but deciding which impacts are dangerous requires value judgements.<ref name="wg 2 ch19 dangerous climate change">Oppenheimer, M., ''et al.'', FAQ 19.1, in: [http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap19_FGDall.pdf Chapter 19: Emergent risks and key vulnerabilities] (archived [https://web.archive.org/web/20140708062559/http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap19_FGDall.pdf July 8 2014]), p.52, in {{harvnb|IPCC AR5 WG2 A|2014}}
+</ref>
+
+In 2010, Parties to the UNFCCC agreed that future global warming should be limited to below 2.0&nbsp;°C (3.6&nbsp;°F) relative to the pre-[[Industrial Revolution|industrial]] level.<ref>
+{{citation
+ | date=15 March 2011
+ | author=UNFCCC. Conference of the Parties (COP)
+ | title=Report of the Conference of the Parties on its sixteenth session, held in Cancun from 29 November to 10 December 2010. Addendum. Part two: Action taken by the Conference of the Parties at its sixteenth session
+ | publisher=United Nations
+ | location=Geneva, Switzerland
+ | url=http://unfccc.int/resource/docs/2010/cop16/eng/07a01.pdf#page=2
+}}, p.3, paragraph 4. Document [http://unfccc.int/documentation/documents/advanced_search/items/6911.php?priref=600006173 available] in UN languages and text format.
+</ref> This may be revised with a target of limiting global warming to below 1.5&nbsp;°C relative to pre-industrial levels. The current trajectory of global greenhouse gas emissions does not appear to be consistent with limiting global warming to below 1.5 or 2&nbsp;°C, relative to pre-industrial levels.<ref>
+Victor, D., ''et al.'', Executive summary, in: [http://report.mitigation2014.org/drafts/final-draft-postplenary/ipcc_wg3_ar5_final-draft_postplenary_chapter1.pdf Chapter 1: Introductory Chapter], p.4 (archived [https://web.archive.org/web/20140703063821/http://report.mitigation2014.org/drafts/final-draft-postplenary/ipcc_wg3_ar5_final-draft_postplenary_chapter1.pdf 3 July 2014)], in {{harvnb|IPCC AR5 WG3|2014}}
+</ref> Other mitigation policies have been proposed, some of which are more stringent<ref name="existing policies inadequate">
+*[http://www.tyndall.ac.uk/radical-emission-reduction-conference The Radical Emissions Reduction Conference], 2013. Held at the Royal Society, Carlton House Terrace, London. 10-11 Dec.
+*The Guardian, 2013. [http://www.theguardian.com/sustainable-business/plastic-bags-climate-change-every-little-helps 'Every little helps' is a dangerous mantra for climate change]. By Adam Corner, 13 Dec.
+*New Statesman, 2013. [http://www.newstatesman.com/print/2013/10/science-says-revolt How science is telling us all to revolt]. By Naomi Klein, 29 Oct.
+*Anderson, K. & Bows, A., 2011. [http://rsta.royalsocietypublishing.org/content/369/1934/20.full.pdf+html Beyond 'dangerous' climate change: emission scenarios for a new world]. Philos. Trans. Royal Society A.
+*Anderson K. (2011, July). [http://www.slideshare.net/DFID/professor-kevin-anderson-climate-change-going-beyond-dangerous Climate Change: Going beyond dangerous -- Brutal numbers, tenuous hope, or cognitive dissonance?] Video of presentation made to UK Dept. for Internal Development.
+*4 Degrees and Beyond Conference, official website: ''[http://www.eci.ox.ac.uk/4degrees/programme.php Programme, abstracts, presentations, and audio recordings.]''
+</ref> or modest<ref name="van vuuren mitigation policy">
+{{harvnb|van Vuuren|others|2009|pp=29-33}}
+</ref><ref name="nordhaus 2010 cba"/> that the 2&nbsp;°C limit.
+
+==Background==
+
+===Greenhouse gas concentrations and stabilization===
+{{See also|Greenhouse gas#Removal from the atmosphere and global warming potential}}
+
+{{Multiple image
+| direction=vertical
+| align=right
+| image1=Stabilizing carbon dioxide emissions at their present level will not stabilize its concentration in the atmosphere.png
+| image2=Stabilizing the atmospheric concentration of carbon dioxide at a constant level would require emissions to be effectively eliminated.png
+| alt1=refer to caption and adjacent text
+| alt2=refer to caption and adjacent text
+| width=320
+| caption1=Stabilizing CO<sub>2</sub> emissions at their present level would not stabilize its concentration in the atmosphere.<ref name="meehl stabilizing ghg concentrations"/>
+| caption2=Stabilizing the atmospheric concentration of CO<sub>2</sub> at a constant level would require emissions to be effectively eliminated.<ref name="meehl stabilizing ghg concentrations"/>}}
+
+One of the issues often discussed in relation to climate change mitigation is the stabilization of greenhouse gas concentrations in the atmosphere. The [[United Nations Framework Convention on Climate Change]] (UNFCCC) has the ultimate objective of [[Avoiding dangerous climate change|preventing "dangerous" anthropogenic (i.e., human) interference of the climate system]]. As is stated in Article 2 of the Convention, this requires that greenhouse gas (GHG) concentrations are stabilized in the atmosphere at a level where [[climate change and ecosystems|ecosystems]] can adapt naturally to climate change, [[climate change and agriculture|food production]] is not threatened, and [[economics of global warming|economic development]] can proceed in a sustainable fashion.<ref>{{cite book
+| year=2007
+| author=Rogner, H.-H., ''et al.''
+| contribution=1.2 Ultimate objective of the UNFCCC
+| title=Introduction
+| series=Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+| editors=B. Metz, ''et al.'', (eds)
+| url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch1s1-2.html
+| publisher=Print version: Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. This version: IPCC website
+| accessdate=2011-06-07}}
+</ref>
+
+There are a number of anthropogenic greenhouse gases. These include [[carbon dioxide]] ([[chemical formula]]: {{CO2}}), [[methane]] ({{chem|CH|4}}), [[nitrous oxide]] ({{chem|N|2|O}}), and a group of gases referred to as [[halocarbon]]s.<ref>
+{{citation
+ | author=Forster, P., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg1/en/faq-2-1.html FAQ 2.1 How do Human Activities Contribute to Climate Change and How do They Compare with Natural Influences?]
+ | chapter=Ch. 2: Changes in Atmospheric Constituents and in Radiative Forcing
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2.html
+}}, in {{harvnb|IPCC AR4 WG1|2007|p=135}}
+</ref> The emissions reductions necessary to stabilize the atmospheric concentrations of these gases varies.<ref name="meehl stabilizing ghg concentrations">
+{{citation
+ | author=Meehl, G.A., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg1/en/faq-10-3.html FAQ 10.3: If Emissions of Greenhouse Gases are Reduced, How Quickly do Their Concentrations in the Atmosphere Decrease?]
+ | chapter=Ch. 10: Global Climate Projections
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch10.html
+}}, in {{harvnb|IPCC AR4 WG1|2007|pp=824–825}}
+</ref> {{CO2}} is the most important of the anthropogenic greenhouse gases (see [[radiative forcing]]).<ref>
+{{citation
+ | author=IPCC
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg1/en/spmsspm-human-and.html Human and Natural Drivers of Climate Change]
+ | chapter=Summary for Policymakers
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg1/en/spm.html
+}}, in {{harvnb|IPCC AR4 WG1|2007}}
+</ref>
+
+There is a difference between stabilizing {{CO2}} emissions and stabilizing atmospheric concentrations of {{CO2}}.<ref>{{Cite web
+|date=January 2009
+|author=U.S. Climate Change Science Program and the Subcommittee on Global Change Research
+|title=Best practice approaches for characterizing, communicating, and incorporating scientific uncertainty in decisionmaking
+|editor=Granger Morgan, H. Dowlatabadi, M. Henrion, [[David Keith (scientist)|D. Keith]], R. Lempert, S. McBride, M. Small, T. Wilbanks (eds.)
+|pages=10–11
+|url=http://www.globalchange.gov/publications/reports/scientific-assessments/saps/311
+|publisher=National Oceanic and Atmospheric Administration, Washington D.C., USA.
+|accessdate=2010-06-07}}
+</ref> Stabilizing emissions of CO<sub>2</sub> at current levels would not lead to a stabilization in the atmospheric concentration of CO<sub>2</sub>. In fact, stabilizing emissions at current levels would result in the atmospheric concentration of CO<sub>2</sub> continuing to rise over the 21st century and beyond (see the graphs opposite).
+
+The reason for this is that human activities are adding CO<sub>2</sub> to the atmosphere far faster than natural processes can remove it (see [[carbon dioxide in Earth's atmosphere]] for a more complete explanation).<ref name="meehl stabilizing ghg concentrations"/> This is analogous to a flow of water into a bathtub.<ref>{{cite journal
+| year=2007
+| title=Understanding public complacency about climate change: adults’ mental models of climate change violate conservation of matter
+| doi=10.1007/s10584-006-9107-5
+| author=Sterman, J.D. and L.B. Sweeney
+| journal=Climatic Change
+| url=http://jsterman.scripts.mit.edu/docs/Sterman-2007-UnderstandingPublicComplacency.pdf
+| format=PDF
+| accessdate=2011-05-10
+| volume=80
+| pages=221–222}}</ref> So long as the tap runs water (analogous to the emission of carbon dioxide) into the tub faster than water escapes through the plughole (the natural removal of carbon dioxide from the atmosphere), then the level of water in the tub (analogous to the concentration of carbon dioxide in the atmosphere) will continue to rise.
+
+Stabilizing atmospheric {{CO2}} concentrations would require anthropogenic {{CO2}} emissions to be reduced by 80% relative to the peak emissions level.<ref name="us nrc co2 stabilization">
+[http://www.nap.edu/openbook.php?record_id=12877&page=21 2. Stabilization and Climate Change of the Next Few Decades and Next Several Centuries, p.21], in: [http://www.nap.edu/openbook.php?record_id=12877&page=11 Summary], in {{harvnb|US NRC|2011}}
+</ref> An 80% reduction in emissions would stabilize {{CO2}} concentrations for around a century, but even greater reductions would be required beyond this.<ref name="meehl stabilizing ghg concentrations"/><ref name="us nrc co2 stabilization"/>
+
+Stabilizing the atmospheric concentration of the other greenhouse gases humans emit also depends on how fast their emissions are added to the atmosphere, and how fast the GHGs are removed. Stabilization for these gases is described in the later section on [[climate change mitigation#Non-CO2 greenhouse gases|non-CO<sub>2</sub> GHGs]].
+
+; Projections
+
+Projections of future greenhouse gas emissions are highly uncertain.<ref>
+{{citation
+ | chapter=Ch 3: Issues related to mitigation in the long-term context
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch3.html
+ | author=Fisher, B.S., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch3s3-1.html Sec 3.1 Emissions scenarios]
+}}, in {{harvnb|IPCC AR4 WG3|2007}}
+</ref> In the absence of policies to mitigate climate change, GHG emissions could rise significantly over the 21st century.<ref name="rogner article 2">
+{{citation
+ | author=Rogner, H.-H., ''et al.''
+ | chapter=Ch 1: Introduction
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch1s1-3-2-4.html Sec 1.3.2.4 Total GHG emissions]
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch1.html
+}}, in {{harvnb|IPCC AR4 WG3|2007|p=111}}
+</ref>
+
+Numerous assessments have considered how atmospheric GHG concentrations could be stabilized.<ref>
+{{citation
+ | chapter=Ch 3: Issues related to mitigation in the long-term context
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch3.html
+ | author=Fisher, B.S., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch3s3-3.html Sec 3.3 Mitigation scenarios]
+}}, in {{harvnb|IPCC AR4 WG3|2007}}
+</ref> The lower the desired stabilization level, the sooner global GHG emissions must peak and decline.<ref>
+{{citation
+ | chapter=Ch 3: Issues related to mitigation in the long-term context
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch3.html
+ | author=Fisher, B.S., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch3s3-3-5.html Table 3.5, in: Sec 3.3.5 Long-term stabilization scenarios]
+}}, in {{harvnb|IPCC AR4 WG3|2007}}
+</ref> GHG concentrations are unlikely to stabilize this century without major policy changes.<ref name="rogner article 2"/>
+
+{|
+| [[File:Projected carbon dioxide emissions and atmospheric concentrations over the 21st century for reference and mitigation scenarios.png|thumb | 320px|upright|alt=refer to caption and adjacent text|Projected carbon dioxide emissions and atmospheric concentrations over the 21st century for reference and mitigation scenarios.]]
+| [[File:World energy consumption.svg|thumb|upright|none|333px|Rate of world energy usage per day, from 1970 to 2010. Every fossil fuel source has increased in large amounts between 1970 and 2010, dominating all other energy sources. Hydroelectricity has increased at a slow steady rate over this same period, nuclear entered a period of rapid growth between 1970 and 1990 before levelling off. Other Renewables, between 2000 and 2010 have, having started from a low usage rate, began to enter into a period of rapid growth. 1000[[TWh]]=1PWh.<ref name="BP-Report-2012">BP: [http://www.bp.com/sectiongenericarticle800.do?categoryId=9037130&contentId=7068669 Statistical Review of World Energy], Workbook (xlsx), London, 2012</ref>]]
+|}
+
+===Energy consumption by power source===
+
+To create lasting climate change mitigation, the replacement of high carbon [[emission intensity]] power sources, such as conventional [[fossil fuel]]s - [[oil]], [[coal]] and [[natural gas]] - with [[low-carbon power]] sources is required. Fossil fuels supply humanity with the vast majority of our energy demands, and at a growing rate. In 2012 the IEA noted that coal accounted for half the increased energy use of the prior decade, growing faster than all renewable energy sources.<ref>[http://www.iea.org/publications/freepublications/publication/English.pdf World energy outlook 2012 (IEA)]</ref> Both [[hydroelectricity]] and [[nuclear power]] together provide the majority of the generated [[low-carbon power]] fraction of global total power consumption.
+
+[[File:Greenhouse Gas Emissions from Electricity Production IEA.PNG|right|thumb|400px|"Hydropower-Internalised Costs and Externalised Benefits"; Frans H. Koch; [[International Energy Agency]] (IEA)-Implementing Agreement for Hydropower Technologies and Programmes; 2000.]]
+
+{|class="wikitable" style="display: inline-block;"
+| width="120pt" rowspan=2| '''Fuel type'''
+|colspan=3| '''Average total global [[Power (physics)|power]] consumption in [[Terawatt|TW]]'''<ref>[http://www.eia.doe.gov/pub/international/iealf/table18.xls World Consumption of Primary Energy by Energy Type and Selected Country Groups] 31 December 2008 [[Microsoft Excel]] file format</ref>
+|-
+|'''1980'''
+|'''2004'''
+|'''2006'''
+|-
+| Oil || 4.38 || 5.58 || 5.74
+|-
+| Gas || 1.80 || 3.45 || 3.61
+|-
+| Coal || 2.34 || 3.87 || 4.27
+|-
+| [[Hydroelectric]] || 0.60 || 0.93 || 1.00
+|-
+| [[Nuclear power]] || 0.25 || 0.91 || 0.93
+|-
+| [[Geothermal]], wind,<br/>[[solar energy]], wood || 0.02 || 0.13 || 0.16
+|-
+| '''Total''' || '''9.48''' || '''15.0''' || '''15.8'''
+|-
+| align="left" colspan=4 | <small> Source: The USA [[Energy Information Administration]] </small>
+|}<!-- The figures in this table are equivalent to those given in the EIA report.-->
+
+{| class="wikitable"
+! colspan="5" align="center" style="background-color: #cfb;" |Change and use of energy, by source, in units of ([[PWh]]) in that year.<ref>Eenergiläget in Sweden 2011 figure 49 and 53</ref>
+|-
+! style="background-color: #cfb;" | 
+! style="background-color: #cfb;" | Fossil 
+! style="background-color: #cfb;" | Nuclear 
+! style="background-color: #cfb;" | All renewables
+! style="background-color: #cfb;" | Total
+|-----
+| align="left" | 1990 || align="right"| 83.374 || align="right" | 6.113 || align="right" | 13.082 || align="right" | 102.569
+|-----
+| align="left" | 2000  || align="right"|  94.493 || align="right" | 7.857 || align="right" | 15.337 || align="right" | 117.687 
+|-----
+| align="left" | 2008  || align="right"| 117.076 || align="right" | 8.283 || align="right" | 18.492 || align="right" | 143.851
+|-----
+| align="left" | Change 2000–2008  || align="right"| 22.583 || align="right" | 0.426 || align="right" | 3.155 || align="right" | 26.164
+|-----
+|}
+
+==Methods and means==
+{{See also|Emission intensity}}
+[[File:Projected global primary electricity consumption by source, over the 21st century, for a climate change mitigation scenario.png|thumb|400px|alt=Refer to caption and image description|This graph shows the projected contribution of various energy sources to world primary electricity consumption (PEC).<ref>
+Figure 4.10, in: Chapter 4: Stabilization Scenarios, in {{harvnb|Clarke|others|2007|p=103}}
+</ref> It is based on a climate change mitigation scenario, in which GHG emissions are substantially reduced over the 21st century. In the scenario, emission reductions are achieved using a portfolio of energy sources, as well as reductions in energy demand. ''Also available in [[:File:Projected global primary electricity consumption by source, over the 21st century, for a climate change mitigation scenario (greyscale).png|greyscale]].'']]
+Assessments often suggest that GHG emissions can be reduced using a portfolio of low-carbon technologies.<ref>
+{{citation
+ | chapter=Synthesis report
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/syr/en/main.html
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/syr/en/mains5-5.html Sec 5.5 Technology flows and development]
+}}, in {{harvnb|IPCC AR4 SYR|2007}}
+</ref> At the core of most proposals is the reduction of [[greenhouse gas]] (GHG) emissions through reducing energy waste and switching to [[low-carbon power]] sources of energy. As the cost of reducing GHG emissions in the [[electricity]] sector appears to be lower than in other sectors, such as in the [[transportation]] sector, the electricity sector may deliver the largest proportional carbon reductions under an economically efficient climate policy.<ref name=issues>[http://www.issues.org/23.3/apt.html Issues in Science] & Technology Online; “Promoting Low-Carbon Electricity Production”</ref>
+
+Other frequently discussed means include [[energy conservation]], increasing [[fuel economy in automobiles]] (which includes the use of [[hybrid vehicle|electric hybrids]]), charging [[plug-in hybrid]]s and [[electric car]]s by [[low-carbon power|low-carbon electricity]], making [[Individual and political action on climate change|individual-lifestyle changes]]<ref>
+{{citation
+ | chapter=Synthesis report
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/syr/en/main.html
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/syr/en/mains4-3.html Sec 4.3 Mitigation options]
+}}, in {{harvnb|IPCC AR4 SYR|2007}}
+</ref> (e.g., [[cycling]] instead of [[driving]]),<ref>
+{{citation
+ | chapter=Ch 5: Transport and its infrastructure
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch5.html
+ | author=Kahn Ribeiro, S., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch5s5-3-1-5.html Non-motorized transport (NMT), in: Sec 5.3.1.5 Road transport: mode shifts]
+}}, in {{harvnb|IPCC AR4 WG3|2007}}
+</ref> and [[business action on climate change|changing business practices]].
+
+A range of energy technologies may contribute to climate change mitigation.<ref>
+{{citation
+ | chapter=Synthesis report
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/syr/en/main.html
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/syr/en/mains4-3.html Table 4.2, in: Sec 4.3 Mitigation options]
+}}, in {{harvnb|IPCC AR4 SYR|2007}}
+</ref> These include [[renewable energy]] sources such as [[solar power]], [[Tidal power|tidal]], [[ocean energy]], [[geothermal power]], and [[wind power]]; [[nuclear power]], the use of [[carbon sink]]s, and [[carbon capture and storage]]. For example, Pacala and Socolow of Princeton
+<ref name=pacala2004sws>{{Cite journal
+   |title=Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies
+   |url=http://carbonsequestration.us/Papers-presentations/htm/Pacala-Socolow-ScienceMag-Aug2004.pdf
+   |first1=Stephen|last1=Pacala|author1-link=
+   |first2=Robert H.|last2=Socolow|author2-link=
+   |journal=[[Science (journal)|Science]]
+    |volume=305 |issue=5686|pages=968–972|year=2004
+   |publisher=[[American Association for the Advancement of Science|AAAS]]
+   |doi=10.1126/science.1100103
+   |pmid=15310891|bibcode = 2004Sci...305..968P }}<br />See also:
+{{cite web
+   |title=Stabwedge
+   |url=http://www.princeton.edu/~cmi/resources/stabwedge.htm
+   |publisher=CMI (Carbon Mitigation Initiative) at [[Princeton University]]
+   |quote=Resources for Pacala & Socolow(2004)}}</ref> have proposed a 15 part program to reduce CO<sub>2</sub> emissions by 1 billion metric tons per year − or 25 billion tons over the 50-year period using today's technologies as a type of [[Global warming game]].<ref>{{cite web
+|url= http://www.nature.com/climate/2008/0807/full/climate.2008.59.html
+|title=Cleaning up on carbon
+|first= Joe
+|last= Romm
+|work=Nature Reports Climate Change
+|date = 19 June 2008
+|accessdate=2 January 2013}}</ref>
+
+Another consideration is how future [[socioeconomic development|socio-economic development]] proceeds. Development choices (or "pathways") can lead differences in GHG emissions.<ref>
+{{citation
+ | chapter=Ch 12: Sustainable Development and mitigation
+ | chapter-url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch12.html
+ | author=Sathaye, J., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch12s12-2-1-1.html Sec 12.2.1.1 Development paths as well as climate policies determine GHG emissions]
+}}, in {{harvnb|IPCC AR4 WG3|2007|pp=701–703}}
+</ref> Political and social attitudes may affect how easy or difficult it is to implement effective policies to reduce emissions.<ref>
+{{citation
+ | chapter=Ch 2. Greenhouse Gas Emission Mitigation Scenarios and Implications
+ | chapter-url=http://www.grida.no/climate/ipcc_tar/wg3/068.htm
+ | author=Morita, T., ''et al.''
+ | at=[http://www.grida.no/climate/ipcc_tar/wg3/082.htm Sec 2.5.2.2 Storylines of Post-SRES Mitigation Scenarios]
+}}, in {{harvnb|IPCC TAR WG3|2001|pp=149–150}}
+</ref>
+
+===Alternative energy sources===
+
+====Renewable energy====
+{{Main|Renewable energy|Renewable energy commercialization|Renewable energy debate }}
+
+{|
+| [[File:ThreeGorgesDam-China2009.jpg|350x|thumb| The 22,500 [[Megawatt|MW]] [[nameplate capacity]] [[Three Gorges Dam]] in the [[Peoples Republic of China]], the largest hydroelectric power station in the world.]]
+| [[File:Solar-Panel-Cooker-in-front-of-hut.jpg|thumb| [[Solar cooker]]s use sunlight as energy source for outdoor cooking.]]
+| [[File:Shepherds Flat Wind Farm 2011.jpg|thumb| The [[Shepherds Flat Wind Farm]] is an 845 [[megawatt]] (MW) [[nameplate capacity]], [[wind farm]] in the U.S. state of [[Oregon]], each turbine is a nameplate 2 or 2.5 MW electricity generator.]]
+|}
+[[File:12-05-08 AS1.JPG|thumb|right|The 150 MW [[Andasol solar power station]] is a commercial [[parabolic trough]] [[solar thermal]] power plant, located in [[Renewable energy in Spain|Spain]]. The Andasol plant uses tanks of molten salt to store solar energy so that it can continue generating electricity for 7.5 hours after the sun has stopped shining.<ref>{{cite web |url= |title=Saving for a rainy day |author=Edwin Cartlidge |date=18 November 2011 |work=Science (Vol 334) |pages=922–924 }}</ref>]]
+
+Renewable energy flows involve natural phenomena such as [[sunlight]], [[wind]], [[tide]]s, [[Biomass|plant growth]], and [[Geothermal heating|geothermal heat]], as the [[International Energy Agency]] explains:<ref>IEA Renewable Energy Working Party (2002). ''Renewable Energy... into the mainstream'', p. 9.</ref>
+{{quote|Renewable energy is derived from natural processes that are replenished constantly. In its various forms, it derives directly from the sun, or from heat generated deep within the earth. Included in the definition is electricity and heat generated from solar, wind, ocean, [[hydropower]], biomass, geothermal resources, and biofuels and hydrogen derived from renewable resources.}}
+
+[[Global warming|Climate change concerns]]<ref name=Stern>HM Treasury (2006). ''Stern Review on the Economics of Climate Change''.</ref><ref name=ieapress>International Energy Agency. [http://www.iea.org/Textbase/press/pressdetail.asp?PRESS_REL_ID=271 IEA urges governments to adopt effective policies based on key design principles to accelerate the exploitation of the large potential for renewable energy] 29 September 2008.</ref><ref name=UNEP2>[[REN21]] (2006).  [http://www.risoe.dk/rispubl/art/2006_120_report.pdf ''Changing climates: The Role of Renewable Energy in a Carbon-constrained World'' (PDF)] p. 2.</ref> and the need to reduce carbon emissions are driving increasing growth in the [[renewable energy industry|renewable energy industries]].<ref name=UNnews>[http://www.un.org/apps/news/story.asp?NewsID=24982&Cr=climate New UN report points to power of renewable energy to mitigate carbon emissions] ''UN News Centre'', 8 December 2007.</ref><ref name=mak>[[Joel Makower]], [[Ron Pernick]] and [[Clint Wilder]] (2008). [http://www.cleanedge.com/reports/pdf/Trends2008.pdf ''Clean Energy Trends 2008]'', [[Clean Edge]], p. 2.</ref><ref name="UNEP">United Nations Environment Programme and New Energy Finance Ltd. (2007). [http://sefi.unep.org/fileadmin/media/sefi/docs/publications/SEFI_Investment_Report_2007.pdf ''Global Trends in Sustainable Energy Investment 2007: Analysis of Trends and Issues in the Financing of Renewable Energy and Energy Efficiency in OECD and Developing Countries'' (PDF)] p. 3.</ref> Low-carbon renewable energy replaces conventional fossil fuels in three main areas: [[power generation]], [[solar hot water|hot water]]/ [[space heating]], and [[transport fuel]]s.<ref name=ren15>[[REN21]] (2010). [http://www.ren21.net/globalstatusreport/REN21_GSR_2010_full.pdf Renewables 2010 Global Status Report] p. 15.</ref> In 2011, the share of renewables in [[electricity generation]] worldwide grew for the fourth year in a row to 20.2%, with the global share of electricity from [[hydro power]] staying roughly constant at 16.3%.<ref>{{cite web|title=Conclusion|url=http://www.energies-renouvelables.org/observ-er/html/inventaire/Eng/conclusion.asp|work=Worldwide electricity production from renewable energy sources|publisher=Observ'ER|accessdate=28 March 2013|location=Paris|year=2012}}</ref>
+
+[[Renewable energy commercialization|Renewable energy use]] has grown much faster than anyone anticipated.<ref name=pg11>{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2013/04/100-percent-renewable-vision-building?amp;buffer_share=fdc06 |title=100 Percent Renewable Vision Building |author=Paul Gipe |date=4 April 2013 |work=Renewable Energy World }}</ref> The [[Intergovernmental Panel on Climate Change]] (IPCC) has said that there are few fundamental technological limits to integrating a portfolio of renewable energy technologies to meet most of total global energy demand.<ref name="IPCC 2011 17">{{cite web |url=http://srren.ipcc-wg3.de/report/IPCC_SRREN_SPM.pdf |title=Special Report on Renewable Energy Sources and Climate Change Mitigation |author=IPCC |year=2011 |work=Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA |page=17 }}</ref> At the national level, at least 30 nations around the world already have renewable energy contributing more than 20% of energy supply.
+
+As of 2012, renewable energy accounts for almost half of new electricity capacity installed and costs are continuing to fall.<ref name=irena111>{{cite web |url=http://www.irena.org/DocumentDownloads/Publications/Overview_Renewable%20Power%20Generation%20Costs%20in%202012.pdf |title=Renewable Power Generation Costs in 2012: An Overview |author=International Renewable Energy Agency |year=2012 |work= }}</ref> [[Public policy]] and political leadership helps to "level the playing field" and drive the wider acceptance of renewable energy technologies.<ref name="renewableenergyfocus.com">Donald W. Aitken. [http://www.renewableenergyfocus.com/download/165 Transitioning to a Renewable Energy Future], [[International Solar Energy Society]], January 2010, p. 3.</ref> {{As of|2011}}, 118 countries have targets for their own renewable energy futures, and have enacted wide-ranging [[public policies]] to promote renewables.<ref name="map.ren21.net">REN21 (2012). [http://www.map.ren21.net/GSR/GSR2012.pdf Renewables Global Status Report 2012] p. 17.</ref><ref name=ren212011>{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |year=2011 |pages=11–13 }}</ref> Leading renewable energy companies include [[BrightSource Energy]], [[First Solar]], [[Gamesa Corporación Tecnológica|Gamesa]], [[GE Energy]], [[Goldwind]], [[Sinovel]], [[Suntech]], [[Trina Solar]], [[Vestas]] and [[Yingli]].<ref name=top>Top of the list, ''Renewable Energy World'', 2 January 2006.</ref><ref name=keith>Keith Johnson, [http://blogs.wsj.com/environmentalcapital/2009/03/25/wind-shear-ge-wins-vestas-loses-in-wind-power-market-race/ Wind Shear: GE Wins, Vestas Loses in Wind-Power Market Race], ''Wall Street Journal'', March 25th 2009, accessed on January 7th 2010.</ref>
+
+The incentive to use [[100% renewable energy]] has been created by [[global warming]] and other ecological as well as economic concerns.<ref name=pg11/> [[Mark Z. Jacobson]] says producing all new energy with [[wind power]], [[solar power]],  and [[hydropower]] by 2030 is feasible and existing energy supply arrangements could be replaced by 2050. Barriers to implementing the renewable energy plan are seen to be "primarily social and political, not technological or economic". Jacobson says that energy costs with a wind, solar, water system should be similar to today's energy costs.<ref name=enpol2011>{{cite web |url=http://www.stanford.edu/group/efmh/jacobson/Articles/I/DJEnPolicyPt2.pdf |title=Providing all global energy with wind, water, and solar power, Part II: Reliability, system and transmission costs, and policies |author=Mark A. Delucchi and Mark Z. Jacobson |date=2011 |volume=39 |work=Energy Policy |pages=1170–1190 |publisher=Elsevier Ltd }}</ref> According to a 2011 projection by the (IEA)[[International Energy Agency]], solar power generators may produce most of the world's electricity within 50 years, dramatically reducing harmful greenhouse gas emissions.<ref name=ieaiea2011>{{cite news |url=http://www.bloomberg.com/news/2011-08-29/solar-may-produce-most-of-world-s-power-by-2060-iea-says.html |title=Solar May Produce Most of World’s Power by 2060, IEA Says |author=Ben Sills |date= August 29, 2011 |work=Bloomberg }}</ref> Critics of the "100% renewable energy" approach include [[Vaclav Smil]] and [[James E. Hansen]]. Smil and Hansen are concerned about the [[variable renewable energy|variable output]] of solar and wind power, [[NIMBY]]ism, and a lack of infrastructure.<ref name=lovi12>{{cite web |url=http://www.foreignaffairs.com/articles/137246/amory-b-lovins/a-farewell-to-fossil-fuels |title=A Farewell to Fossil Fuels |author=Amory Lovins |date=March–April 2012 |work=Foreign Affairs }}</ref>
+
+Economic analysts expect market gains for [[renewable energy]] (and [[efficient energy use]]) following the [[2011 Japanese nuclear accidents]].<ref>{{cite web |url=http://www.upi.com/Science_News/Resource-Wars/2011/03/21/Japans-nuclear-disaster-boosts-renewables/UPI-28501300714143/#ixzz1HJPwVWKa  |title = Japan's nuclear disaster boosts renewables |date=March 21, 2011 |work=UPI.com }}</ref><ref>{{cite news |url=http://www.guardian.co.uk/environment/2011/mar/15/japan-nuclear-explosion-energy-renewables |title=Japan nuclear crisis prompts surging investor confidence in renewables |author=John Vidall |date=15 March 2011 |work=The Guardian |location=London}}</ref> In his 2012 [[State of the Union]] address, President Barack Obama restated his commitment to renewable energy and mentioned the long-standing Interior Department commitment to permit 10,000 MW of renewable energy projects on public land in 2012.<ref name="Lindsay Morris">{{cite web |url=http://www.renewableenergyworld.com/rea/blog/post/2012/01/obama-sticking-to-promise-of-clean-energy?cmpid=SolarNL-Thursday-January26-2012 |title=Obama: Sticking to "Promise of Clean Energy" |author=Lindsay Morris |date=25 January 2012 |work=Renewable Energy World }}</ref> Globally, there are an estimated 3 million direct jobs in renewable energy industries, with about half of them in the biofuels industry.<ref name=ren9>[[REN21]] (2010). [http://www.ren21.net/Portals/97/documents/GSR/REN21_GSR_2010_full_revised%20Sept2010.pdf Renewables 2010 Global Status Report] p. 9 & 34.</ref>
+
+Some countries, with favorable [[geography]], [[geology]] and [[weather]] well suited to an economical exploitation of renewable energy sources, already get most of their electricity from renewables, including from [[geothermal energy]] in Iceland (100 percent), and [[Hydroelectric]] power in Brazil (85 percent), Austria (62 percent), New Zealand (65 percent), and Sweden (54 percent).<ref name=ren53>[[REN21]] (2010). [http://www.ren21.net/globalstatusreport/REN21_GSR_2010_full.pdf Renewables 2010 Global Status Report] p. 53.</ref> Renewable power generators are spread across many countries, with wind power providing a significant share of electricity in some regional areas: for example, 14 percent in the U.S. state of Iowa, 40 percent in the northern German state of Schleswig-Holstein, and 20 percent in Denmark. [[Solar water heating]] makes an important and growing contribution in many countries, most notably in China, which now has 70 percent of the global total (180 GWth). Worldwide, total installed solar water heating systems meet a portion of the water heating needs of over 70 million households. The use of [[biomass]] for heating continues to grow as well. In Sweden, national use of biomass energy has surpassed that of oil. Direct [[geothermal heating]] is also growing rapidly.<ref name=ren53/> Renewable [[biofuel]]s for transportation, such as [[ethanol fuel]] and [[biodiesel]], have contributed to a significant decline in oil consumption in the United States since 2006. The 93&nbsp;billion liters of biofuels produced worldwide in 2009 displaced the equivalent of an estimated 68&nbsp;billion liters of gasoline, equal to about 5 percent of world gasoline production.<ref name=ren53/>
+
+====Nuclear power====
+{{See also|Nuclear renaissance|Comparisons of life-cycle greenhouse gas emissions}}
+[[File:Advanced Test Reactor.jpg|thumb|200px|left|Blue [[Cherenkov]] light being produced near the core of the Fission powered [[Advanced Test Reactor]]]]
+Since about 2001 the term "nuclear renaissance" has been used to refer to a possible [[nuclear power]] industry revival, driven by rising [[Price of petroleum|fossil fuel prices]] and new concerns about meeting [[greenhouse gas]] emission limits.<ref name="intro">[http://www.world-nuclear.org/info/inf104.html The Nuclear Renaissance (by the World Nuclear Association)]</ref> However, in March 2011 the [[Fukushima nuclear disaster]] in Japan and associated shutdowns at [[2011 Japanese nuclear incidents|other nuclear facilities]] raised questions among some commentators over the future of nuclear power.<ref>[http://www.bloomberg.com/news/2011-03-13/nuclear-renaissance-threatened-as-japan-fights-meltdown-at-quake-hit-plant.html Nuclear Renaissance Threatened as Japan’s Reactor Struggles] Bloomberg, published March 2011, accessed 2011-03-14</ref><ref>[http://www.reuters.com/article/2011/03/14/us-japan-quake-nuclear-analysis-idUSTRE72C41W20110314 Analysis: Nuclear renaissance could fizzle after Japan quake] Reuters, published 2011-03-14, accessed 2011-03-14</ref><ref>[http://www.reuters.com/article/2011/03/13/us-nuclear-usa-idUSTRE72C2UW20110313 Japan nuclear woes cast shadow over U.S. energy policy] Reuters, published 2011-03-13, accessed 2011-03-14</ref> [[Platts]] has reported that "the crisis at Japan's Fukushima nuclear plants has prompted leading energy-consuming countries to review the safety of their existing reactors and cast doubt on the speed and scale of planned expansions around the world".<ref>{{cite web |url=http://www.platts.com/RSSFeedDetailedNews/RSSFeed/ElectricPower/6925550 |title=NEWS ANALYSIS: Japan crisis puts global nuclear expansion in doubt  |date=21 March 2011 |publisher=Platts }}</ref>
+
+The [[World Nuclear Association]] has reported that nuclear electricity generation in 2012 was at its lowest level since 1999.<ref name=wna13>{{cite web |url=http://www.world-nuclear-news.org/NN_Nuclear_power_down_in_2012_2006131.html |title=Nuclear power down in 2012 |author=WNA |date=20 June 2013 |work=World Nuclear News }}</ref> Several previous international studies and assessments,<ref name="Sims, R.E.H., et al.">{{citation
+ | chapter=Ch. 4: Energy supply
+ | author=Sims, R.E.H., ''et al.''
+ | at=[http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch4s4-es.html Executive summary]
+}}, in {{harvnb|IPCC AR4 WG3|2007}}</ref><ref name="IAEA 2008 42">{{harvnb|IAEA|2008|p=42}}</ref><ref>
+{{citation
+ | title=Technology Roadmap: Nuclear Energy. 2010 Edition
+ | date=16 June 2010
+ | author=IEA
+ | url=http://iea.org/publications/freepublications/publication/nuclear_roadmap.pdf
+ | publisher=Organization for Economic Co-operation and Development (OECD) / International Energy Agency (IEA) and OECD / Nuclear Energy Agency (NEA)
+}}, pp.5-6. Also available in [http://iea.org/publications/freepublications/publication/name,3906,en.html Chinese and Italian]</ref> suggested that as part of the portfolio of other [[low-carbon energy]] technologies, nuclear power will continue to play a role in reducing greenhouse gas emissions. Historically, nuclear power usage is estimated to have prevented the atmospheric emission of 64 giga[[tonne]]s of [[Carbon dioxide equivalent|CO2-equivalent]] as of 2013.<ref>http://pubs.acs.org/doi/abs/10.1021/es3051197?source=cen Prevented Mortality and Greenhouse Gas Emissions from Historical and Projected Nuclear Power. ''Environ. Sci. Technol.,''
+DOI: 10.1021/es3051197</ref> Public concerns about nuclear power include the [[spent nuclear fuel|fate of spent nuclear fuel]], [[nuclear safety]], and [[nuclear terrorism|security risk]]s which are considered unique among low-carbon energy sources.
+
+A [[Yale University]] review published in the Journal of Industrial Ecology analyzing CO2 [[life cycle assessment]] emissions from nuclear power determined that: "The collective LCA literature indicates that life cycle [[Greenhouse gas|GHG]] emissions from nuclear power are only a fraction of traditional fossil sources and comparable to renewable technologies."<ref name="Warner + Heath, JoIE" />
+Uncertainty surrounding the future GHG emissions of nuclear power have to do with the potential for a declining uranium ore grade without a corresponding increase in the [[Enriched uranium|efficiency of enrichment methods]]. In a scenario analysis of future global nuclear development, as it could be effected by a decreasing global [[uranium market]] of average ore grade, the analysis determined that depending on conditions, median life cycle nuclear power GHG emissions could be between 9 to 110 g CO2-eq/kWh by 2050.<ref name="Warner + Heath, JoIE">{{cite doi|10.1111/j.1530-9290.2012.00472.x}}</ref>
+
+During his [[President of United States|presidential]] campaign, [[Barack Obama]] stated, "Nuclear power represents more than 70% of our noncarbon generated electricity. It is unlikely that we can meet our aggressive climate goals if we eliminate nuclear power as an option."
+<ref>http://www.barackobama.com/pdf/factsheet_energy_speech_080308.pdf</ref>
+
+[[File:Net US Electric Generation for 2009.jpg|thumb|350px|This graph illustrates nuclear power is the [[USA]]'s largest contributor of non-greenhouse-gas-emitting electric power generation, comprising nearly three-quarters of the non-emitting sources.]]
+
+Nuclear power may be uncompetitive compared with fossil fuel energy sources in countries without a [[carbon tax]] program, and in comparison to a fossil fuel plant of the same power output, nuclear power plants take a longer amount of time to construct.<ref>Trevor Findlay. [http://www.cigionline.org/library/future-nuclear-energy-2030-and-its-implications-safety-security-and-nonproliferation-overvie The Future of Nuclear Energy to 2030 and its Implications for Safety, Security and Nonproliferation] February 4, 2010.
+</ref><ref name=tf2010>Trevor Findlay (2010). [http://www.cigionline.org/sites/default/files/Nuclear%20Energy%20Futures%20Overview.pdf The Future of Nuclear Energy to 2030 and its Implications for Safety, Security and Nonproliferation: Overview], The Centre for International Governance Innovation (CIGI), Waterloo, Ontario, Canada, pp. 10-11.
+</ref><ref>[[M.V. Ramana]]. Nuclear Power: Economic, Safety, Health, and Environmental Issues of Near-Term Technologies, ''Annual Review of Environment and Resources'', 2009, 34, pp. 144-145.
+</ref><ref name=iea2009>International Energy Agency, ''World Energy Outlook'',  2009, p. 160.
+</ref>
+
+[[File:Global public support for energy sources (Ipsos 2011).png|thumb|350px|right|alt=refer to caption and image description|Global public support for energy sources, based on a survey by Ipsos (2011).<ref name="ipsos 2011 preference for renewables"/>]]
+
+Two new, first of their kind, [[European Pressurized Reactor|EPR]] reactors under construction in Finland and France have been delayed and are running over-budget.<ref name=jk>James Kanter. [http://www.nytimes.com/2009/05/29/business/energy-environment/29nuke.html?ref=global-home In Finland, Nuclear Renaissance Runs Into Trouble] ''New York Times'', May 28, 2009.
+</ref><ref name=greeninc>James Kanter. [http://greeninc.blogs.nytimes.com/2009/05/29/is-the-nuclear-renaissance-fizzling/ Is the Nuclear Renaissance Fizzling?] ''Green'', 29 May 2009.
+</ref><ref name=rb>Rob Broomby. [http://news.bbc.co.uk/2/hi/europe/8138869.stm Nuclear dawn delayed in Finland] ''BBC News'', 8 July 2009.
+</ref> However learning from experience, two further EPR reactors under construction in China are on, and ahead, of schedule respectively.<ref>{{cite news| url=http://www.bloomberg.com/news/2010-11-24/china-builds-french-designed-nuclear-reactor-for-40-less-areva-ceo-says.html | work=Bloomberg | title=China Builds Nuclear Reactor for 40% Less Than Cost in France, Areva Says}}</ref> As of 2013, according to the [[IAEA]] and the [[European Nuclear Society]], worldwide there were 68 civil nuclear power reactors under construction in 15 countries.<ref>http://www.iaea.org/pris/</ref><ref name="euronuclear.org">http://www.euronuclear.org/info/encyclopedia/n/nuclear-power-plant-world-wide.htm</ref> China has 29 of these nuclear power reactors under construction, as of 2013, with plans to build many more,<ref name="euronuclear.org"/><ref name="Nuclear Power in China">World Nuclear Association (December 10, 2010). [http://www.world-nuclear.org/info/inf63.html Nuclear Power in China]</ref> while in the US the licenses of almost half its reactors have been extended to 60&nbsp;years,<ref name="Nuclear Power in the USA">{{cite web | url= http://www.world-nuclear.org/info/inf41.html#licence | title= Nuclear Power in the USA |date=June 2008 |work= | publisher= [[World Nuclear Association]] | accessdate= 2008-07-25 }}</ref> and plans to build another dozen are under serious consideration.<ref name=matt2010>Matthew L. Wald (December 7, 2010). [http://green.blogs.nytimes.com/2010/12/07/nuclear-renaissance-is-short-on-largess/ Nuclear ‘Renaissance’ Is Short on Largess] ''[[The New York Times]]''.</ref>  There are also a considerable number of new reactors being built in South Korea, India, and Russia. At least 100 older and smaller reactors will "most probably be closed over the next 10-15 years".<ref name=ditt>Michael Dittmar. [http://www.smh.com.au/business/taking-stock-of-nuclear-renaissance-that-never-was-20100817-128ky.html Taking stock of nuclear renaissance that never was] ''Sydney Morning Herald'', August 18, 2010.
+</ref> This is probable only if one does not factor in the ongoing [[Light Water Reactor Sustainability Program]], created to permit the extension of the life span of the USA's 104 nuclear reactors to 60 years. The licenses of almost half of the USA's reactors have been extended to 60&nbsp;years as of 2008.<ref name="Nuclear Power in the USA"/> Two new [[AP1000]] reactors are, as of 2013, being constructed at [[Vogtle Electric Generating Plant]].
+
+Public opinion about nuclear power varies widely between countries.<ref>
+{{harvnb|Gallup International|2011|pp=9–10}}
+</ref><ref>
+{{harvnb|Ipsos|2011|p=4}}
+</ref> A poll by Gallup International (2011)<ref>
+{{harvnb|Gallup International|2011}}
+</ref> assessed public opinion in 47 countries. The poll was conducted following a [[2011 Tōhoku earthquake and tsunami|tsumani and earthquake]] which caused an [[Fukushima Daiichi nuclear disaster|accident]] at the Fukushima nuclear power plant in Japan. 49% stated that they held favourable views about nuclear energy, while 43% held an unfavourable view.<ref>
+{{harvnb|Gallup International|2011|p=3}}
+</ref> Another global survey by Ipsos (2011)<ref>
+{{harvnb|Ipsos|2011}}
+</ref> assessed public opinion in 24 countries. Respondents to this survey showed a clear preference for renewable energy sources over coal and nuclear energy (refer to graph opposite).<ref name="ipsos 2011 preference for renewables">
+{{harvnb|Ipsos|2011|p=3}}
+</ref> Ipsos (2012)<ref>
+{{citation
+ | author=Ipsos
+ | title=After Fukushima: Global Opinion on Energy Policy
+ | date=9 March 2012
+ | url=http://www.ipsos.com/public-affairs/sites/www.ipsos.com.public-affairs/files/Energy%20Article.pdf
+}}, p.7. Survey website: [http://www.ipsos.com/public-affairs/publications/after-fukushima-global-opinion-energy-policy After Fukushima: Global Opinion on Energy Policy: Ipsos Public Affairs]
+</ref> found that solar and wind were viewed by the public as being more environmentally friendly and more viable long-term energy sources relative to nuclear power and natural gas. However, solar and wind were viewed as being less reliable relative to nuclear power and natural gas. In 2012 a poll done in the [[UK]] found that 63% of those surveyed support nuclear power, and with opposition to nuclear power at 11%.<ref>http://www.reuters.com/article/2012/07/02/britain-nuclear-poll-idAFL6E8I2E4H20120702 UK popular support for nuclear power rises -poll. 63 pct Britons support nuclear as part of energy mix</ref> In Germany, strong [[anti-nuclear]] sentiment led to eight of the seventeen operating reactors being permanently shut down following the March 2011 [[Fukushima nuclear disaster]].<ref name="Annika Breidthardt">{{cite news |url=http://uk.reuters.com/article/2011/05/30/us-germany-nuclear-idUKTRE74Q2P120110530 |title=German government wants nuclear exit by 2022 at latest |author=Annika Breidthardt |date=May 30, 2011  |work=Reuters }}</ref>
+
+[[Nuclear fusion]] research, in the form of the [[International Thermonuclear Experimental Reactor]] is underway. Fusion powered electricity generation was initially believed to be readily achievable, as fission power had been. However, the extreme requirements for continuous reactions and [[plasma containment]] led to projections being extended by several decades. In 2010, more than 60 years after the first attempts, commercial power production was still believed to be unlikely before 2050.<ref name="ITERorg">{{cite web |work=The ITER Project |title=Beyond ITER |publisher=Information Services, Princeton Plasma Physics Laboratory |url=http://www.iter.org/Future-beyond.htm |accessdate=5 February 2011 |archiveurl=http://web.archive.org/web/20061107220145/http://www.iter.org/Future-beyond.htm |archivedate=7 November 2006 }} - Projected fusion power timeline</ref>
+
+====Fuel switching====
+{{See also|Emission intensity}}
+Most mitigation proposals imply&nbsp;— rather than directly state&nbsp;— an eventual reduction in global fossil fuel production. Also proposed are direct quotas on global fossil fuel production.<ref>{{cite web
+ |title = Climate Control: a proposal for controlling global greenhouse gas emissions
+ |publisher = Sustento Institute
+ |url = http://sustento.org.nz/wp-content/uploads/2007/06/climate-control.pdf
+ |format = PDF
+ |accessdate = 2007-12-10}}</ref><ref>{{cite web
+|title=#7: Moratorium on New Projects for Fossil Fuel Production & Declining Cap on Existing Production
+|url=http://www.bcsea.org/policy/files/7_Fossil_fuels.pdf
+|first=Thomas|last=Hackney
+|publisher=[[BC Sustainable Energy Association]]
+|date=July 2009
+|series=[http://www.bcsea.org/policy/ BCSEA's Climate Action Portfolio]
+|accessdate=2008-04-24}}</ref>
+
+Natural gas emits far fewer greenhouse gases (i.e. CO2 and Methane - CH4) than coal when burned at power plants, but evidence has been emerging that this benefit could be completely negated by methane leakage at gas drilling fields and other earlier points in the production lifecycle.
+
+A study performed by the Environmental Protection Agency (EPA) and the Gas Research Institute (GRI) in 1997 sought to discover whether the reduction in carbon dioxide emissions from increased natural gas (predominantly methane) use would be offset by a possible increased level of methane emissions from sources such as leaks and emissions. The study concluded that the reduction in emissions from increased natural gas use outweighs the detrimental effects of increased methane emissions. More recent peer-reviewed studies have challenged the findings of this study, with researchers from the National Oceanic and Atmospheric Administration (NOAA) reconfirming findings of high rates of methane (CH4) leakage from natural gas fields.
+
+A 2011 study <ref name="usclimatenetwork.org">http://www.usclimatenetwork.org/resource-database/report-coal-to-gas-the-influence-of-methane-leakage</ref> by noted climate research scientist, Tom Wigley,<ref>[[Tom Wigley]]</ref> found that while carbon dioxide (CO2) emissions from fossil fuel combustion may be reduced by using natural gas rather than coal to produce energy, it also found that additional methane (CH4) from leakage adds to the radiative forcing of the climate system, offsetting the reduction in CO2 forcing that accompanies the transition from coal to gas. The study looked at methane leakage from coal mining; changes in radiative forcing due to changes in the emissions of sulfur dioxide and carbonaceous aerosols; and differences in the efficiency of electricity production between coal- and gas-fired power generation. On balance, these factors more than offset the reduction in warming due to reduced CO2 emissions. When gas replaces coal there is additional warming out to 2,050 with an assumed leakage rate of 0%, and out to 2,140 if the leakage rate is as high as 10%. The overall effects on global-mean temperature over the 21st century, however, are small. Petron et al. (2013) <ref name="epa.gov">http://www.epa.gov/ttnchie1/conference/ei20/session6/gpetron.pdf</ref> and Alvarez et al. (2012)<ref>http://www.pnas.org/content/early/2012/04/02/1202407109.abstract</ref> note that estimated that leakage from gas infrastructure is likely to be underestimated. These studies indicate that the exploitation of natural gas as a "cleaner" fuel is questionable.
+
+===Energy efficiency and conservation===
+{{Main|Efficient energy use|Energy conservation}}
+[[File:Compact-Fluorescent-Bulb.jpg|thumb|250px|upright=1.00|A spiral-type integrated [[compact fluorescent lamp]], use has grown among North American consumers since its introduction in the mid-1990s.<ref>{{cite web|title=Philips Tornado Asian Compact Fluorescent | publisher=Philips | accessdate=2007-12-24 | url=http://www.lamptech.co.uk/Spec%20Sheets/Philips%20CFL%20Tornado.htm}}</ref>]]
+
+Efficient energy use, sometimes simply called "energy efficiency", is the goal of efforts to reduce the amount of energy required to provide products and services. For example, [[building insulation|insulating a home]] allows a building to use less heating and cooling energy to achieve and maintain a comfortable temperature. Installing [[fluorescent lights]] or natural [[Skylight (window)|skylights]] reduces the amount of energy required to attain the same level of illumination compared to using traditional [[incandescent light bulbs]]. [[Compact fluorescent lights]] use two-thirds less energy and may last 6 to 10 times longer than incandescent lights.<ref>[[Mark Diesendorf|Diesendorf, Mark]] (2007). ''[[Greenhouse Solutions with Sustainable Energy]]'', UNSW Press, p. 86.</ref>
+
+Energy efficiency has proved to be a cost-effective strategy for building economies without necessarily growing [[World energy resources and consumption|energy consumption]]. For example, the state of [[California]] began implementing energy-efficiency measures in the mid-1970s, including building code and appliance standards with strict efficiency requirements. During the following years, California's energy consumption has remained approximately flat on a per capita basis while national U.S. consumption doubled. As part of its strategy, California implemented a "loading order" for new energy resources that puts energy efficiency first, renewable electricity supplies second, and new fossil-fired power plants last.<ref>{{cite web|url=http://www.energy.ca.gov/2005publications/CEC-400-2005-043/CEC-400-2005-043.PDF |title=Loading Order White Paper |format=PDF |date= |accessdate=2010-07-16}}</ref>
+
+[[Energy conservation]] is broader than energy efficiency in that it encompasses using less energy to achieve a lesser energy service, for example through behavioural change, as well as encompassing energy efficiency.  Examples of conservation without efficiency improvements would be heating a room less in winter, driving less, or working in a less brightly lit room.  As with other definitions, the boundary between efficient energy use and energy conservation can be fuzzy, but both are important in environmental and economic terms.  This is especially the case when actions are directed at the saving of fossil fuels.<ref>Diesendorf, Mark (2007). ''Greenhouse Solutions with Sustainable Energy'', UNSW Press, p. 87.</ref>
+
+Reducing energy use is seen as a key solution to the problem of reducing greenhouse gas emissions.  According to the [[International Energy Agency]], improved energy efficiency in [[Energy-efficient buildings|buildings]], industrial processes and [[Sustainable transportation|transportation]] could reduce the world's energy needs in 2050 by one third, and help control global emissions of greenhouse gases.<ref>{{cite web|author=Sophie Hebden |url=http://www.scidev.net/News/index.cfm?fuseaction=readNews&itemid=2929&language=1 |title=Invest in clean technology says IEA report |publisher=Scidev.net |date=2006-06-22 |accessdate=2010-07-16}}</ref>
+
+===Sinks and negative emissions===
+{{Main|Carbon sink|Negative carbon dioxide emission}}
+
+A [[carbon sink]] is a natural or artificial reservoir that accumulates and stores some carbon-containing chemical compound for an indefinite period, such as a growing [[forest]]. A [[negative carbon dioxide emission]] on the other hand is a permanent removal of carbon dioxide out of the atmosphere, such as directly capturing carbon dioxide in the atmosphere and storing it in [[Carbon capture and storage#Geological storage|geologic formations]] underground.
+
+The Antarctic Climate and Ecosystems Cooperative Research Centre (ACE-CRC) notes that one third of humankind’s annual emissions of CO2 are absorbed by the oceans. The oceans act as a carbon sink, that is, a reservoir that accumulates and stores carbon via its physicochemical and biological processes.<ref>http://www.acecrc.org.au/Research/Southern%20Ocean%20Carbon%20Sink</ref> Unfortunately, this "vital service comes with the cost of [[ocean acidification]]". The ecological effects of ocean acidification are still largely unknown. Research so far has focussed on how acidification lowers pH and the level of carbonate ions available for calcifying organisms to form their shells. These organisms include plankton species that contribute to the foundation of the Southern Ocean food web. However acidification may impact on a broad range of other physiological and ecological processes, such as fish respiration, larval development and changes in the solubility of both nutrients and toxins.<ref>http://www.acecrc.org.au/Research/Ocean%20Acidification</ref> According to the CSIRO <ref>[[Commonwealth Scientific and Industrial Research Organisation]]</ref> the Southern Ocean is absorbing increasing amounts of carbon dioxide, with potentially significant impacts on marine life.<ref>http://www.csiro.au/Outcomes/Climate/Understanding/ClimateChangeCO2inOceans.aspx</ref>
+
+====Reforestation and avoided deforestation====
+[[File:Cow female black white.jpg|right|300px|thumb|Managed grazing methods are argued to be able to restore grasslands, thereby significantly decreasing atmospheric CO<sub>2</sub> levels.<ref name=ASavory/>]]
+{{Main|Deforestation|Reforestation|Biosequestration}}
+Almost 20% (8 GtCO<sub>2</sub>/year) of total greenhouse-gas emissions were from deforestation in 2007. The Stern Review found that, based on the [[opportunity costs]] of the landuse that would no longer be available for agriculture if deforestation were avoided, emission savings from avoided deforestation could potentially reduce CO<sub>2</sub> emissions for under $5/tCO<sub>2</sub>, possiblly as little as $1/tCO<sub>2</sub>. [[Afforestation]] and [[reforestation]] could save at least another 1GtCO<sub>2</sub>/year, at an estimated cost of $5/tCO<sub>2</sub> to $15/tCO<sub>2</sub>.<ref name="stern"/> The Review determined these figures by assessing 8 countries responsible for 70% of global deforestation emissions. Pristine [[temperate forest]] has been shown to store three times more carbon than IPCC estimates took into account, and 60% more carbon than [[plantation forest]].<ref>Young, E. (2008). ''IPCC Wrong On Logging Threat to Climate.'' New Scientist, August 5, 2008. Retrieved on August 18, 2008, from http://environment.newscientist.com/article/dn14466-ipcc-wrong-on-logging-threat-toclimate.html</ref> Preventing these forests from being logged would have significant effects. Further significant savings from other non-energy-related-emissions could be gained through cuts to [[agricultural emissions]], [[fugitive emissions]], [[waste emissions]], and emissions from various [[industrial processes]].<ref name="stern"/> Using evidence from Mozambique, a typical low income country where agriculture is the dominant provider of income for most citizens, researchers from the [[Overseas Development Institute]] found a positive correlation between increased production intensification and reduced land conversion, and crop returns, economic growth and food security.<ref>Wiggins, S., Chant, L., McDonald, S. and Wright, J., February 2012. [http://www.odi.org.uk/resources/details.asp?id=6310&title=emissions-farming-agriculture-low-carbon-growth-climate-change-mozambique If Mozambique reduces net emissions from farming, will the poor suffer?]</ref>
+
+Restoring grasslands store CO<sub>2</sub> from the air into plant material. Grazing livestock, usually not left to wander, would eat the grass and would minimize any grass growth while grass left alone would eventually grow to cover its own growing buds, preventing them from photosynthesizing and killing the plant.<ref name=Tlovell>{{cite news|url=http://www.newstatesman.com/environment/2011/01/lovell-carbon-ward-climate|title=How fences could save the planet|publisher=newstatesman.com|accessdate=May 5, 2013|date=January 13, 2011}}</ref>  A method proposed to restore grasslands uses fences with many small paddocks and moving herds from one paddock to another after a day a two in order to mimick natural grazers and allowing the grass to grow optimally.<ref name=Tlovell/><ref>{{cite news|url=http://news.mongabay.com/2008/0221-soil_carbon_lovell_interview.html|title=Restoring soil carbon can reverse global warming, desertification and biodiversity|publisher=mongabay.com|accessdate=May 5, 2013|date=February 21, 2008}}</ref><ref>{{cite news|url=http://www.time.com/time/magazine/article/0,9171,1953692,00.html|title=How eating grass-fed beef could help fight climate change|publisher=time.com|accessdate=May 11, 2013|date=January 25, 2010}}</ref> It is estimated that increasing the carbon content of the soils in the world’s 3.5 billion hectares of agricultural grassland by 1% would offset nearly 12 years of CO<sub>2</sub> emissions.<ref name=Tlovell/> [[Allan Savory]], as part of [[holistic management]], claims that while large herds are often blamed for desertification, prehistoric lands used to support large or larger herds and areas where herds were removed in the United States are still desertifying.<ref name=ASavory>{{cite news|url=http://newswatch.nationalgeographic.com/2013/03/06/how-cows-could-repair-the-world-allan-savory-at-ted/|title=How cows could repair the world|publisher=nationalgeographic.com|accessdate=May 5, 2013|date=March 6, 2013}}</ref>
+
+====Carbon capture and storage====
+[[File:Carbon sequestration-2009-10-07.svg|thumb|350px|Schematic showing both terrestrial and geological sequestration of carbon dioxide emissions from a coal-fired plant.]]
+{{Main|Carbon capture and storage}}
+
+Carbon capture and storage (CCS) is a method to mitigate climate change by capturing [[carbon dioxide]] (CO<sub>2</sub>) from large point sources such as power plants and subsequently storing it away safely instead of releasing it into the atmosphere. The Intergovernmental Panel on Climate Change says CCS could contribute between 10% and 55% of the cumulative worldwide carbon-mitigation effort over the next 90 years. The International Energy Agency says CCS is "the most important single new technology for CO<sub>2</sub> savings" in power generation and industry.<ref name=futureenergysummit>{{cite news|last=Robinson |first=Simon |url=http://www.time.com/time/specials/packages/article/0,28804,1954176_1954175,00.html |title=How to Reduce Carbon Emissions: Capture and Store it? |publisher=[[Time.com]] |date=2010-01-22 |accessdate=2010-08-26}}</ref> Though it requires up to 40% more energy to run a CCS coal power plant than a regular coal plant, CCS could potentially capture about 90% of all the carbon emitted by the plant.<ref name=futureenergysummit/> [[Norway]], which first began storing CO<sub>2</sub>, has cut its emissions by almost a million tons a year, or about 3% of the country's 1990 levels.<ref name=futureenergysummit/> As of late 2011, the total CO2 storage capacity of all 14 projects in operation or under construction is over 33 million tonnes a year. This is broadly equivalent to preventing the emissions from more than six million cars from entering the atmosphere each year.<ref>{{cite web|url=http://www.globalccsinstitute.com/publications/global-status-ccs-2011/online/26856|title=Global Status of CCS Report:2011|publisher=Global CCS Institute|accessdate=2011-12-14}}</ref>
+
+====Negative carbon dioxide emissions====
+{{Main|Negative carbon dioxide emission}}
+
+Creating [[negative carbon dioxide emission]]s literally removes carbon from the atmosphere. Examples are [[Carbon capture and storage|direct air capture]], [[biochar]], [[bio-energy with carbon capture and storage]] and [[enhanced weathering]] technologies. These processes are sometimes considered as variations of sinks or mitigation,<ref name=OECD>{{Cite web
+  |title=OECD Environmental Outlook to 2050, Climate Change Chapter, pre-release version
+  |url=http://www.oecd.org/dataoecd/32/53/49082173.pdf
+  |publisher=[[OECD]]
+  |year=2011
+  |accessdate=2012-04-23
+}}</ref><ref name="IEA Technology Roadmap Carbon Capture and Storage 2009">{{Cite web
+  |title=IEA Technology Roadmap Carbon Capture and Storage 2009
+  |url=https://www.iea.org/papers/2009/CCS_Roadmap.pdf
+  |publisher=[[OECD]]/IEA
+  |year=2009
+  |accessdate=2012-04-23
+}}</ref> and sometimes as geoengineering.<ref name=RoyalSociety>{{Cite web
+  |title=Geoengineering the climate: science, governance and uncertainty
+  |url=http://royalsociety.org/policy/publications/2009/geoengineering-climate/
+  |publisher=[[The Royal Society]]
+  |year=2009
+  |accessdate=2012-04-23
+}}</ref>
+
+In combination with other mitigation measures, sinks in combination with negative carbon emissions are considered crucial for meeting the [[Climate change mitigation scenarios#350 ppm|350 ppm target]],<ref name=hare>{{cite doi|10.1007/s10584-005-9027-9}}</ref><ref name=Azar>Azar, C., Lindgren, K., Larson, E.D. and Möllersten, K.: (2006)[http://www.environmental-expert.com/Files%5C6063%5Carticles%5C6220%5Cw30h4274h130580u.pdf  “Carbon capture and storage from fossil fuels and biomass – Costs and potential role in stabilising the atmosphere”], Climatic Change, 74, 47-79.</ref> and even the less conservative [[Climate change mitigation scenarios#450 ppm|450 ppm target]].<ref name=OECD>{{Cite web
+  |title=OECD Environmental Outlook to 2050, Climate Change Chapter, pre-release version
+  |url=http://www.oecd.org/dataoecd/32/53/49082173.pdf
+  |publisher=[[OECD]]
+  |year=2011
+  |accessdate=2012-01-16
+}}</ref>
+
+===Geoengineering===
+{{Main|geoengineering}}
+
+Geoengineering is seen by some{{Who|date=May 2010}} as an alternative to mitigation and adaptation, but by others{{Who|date=May 2010}} as an entirely separate response to climate change. In a [[scientific literature|literature]] assessment, Barker ''et al.'' (2007) described geoengineering as a type of mitigation policy.<ref>{{cite book
+|year=2007
+|title=11.2.2 Ocean fertilization and other geo-engineering options. In (book chapter): Mitigation from a cross-sectoral perspective. In: Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz ''et al.'' (eds.))
+|publisher=Print version: Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. This version: IPCC website
+|isbn=978-0-521-88011-4
+|author=Barker, T. ''et al.''
+|url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch11s11-2-2.html
+|accessdate=2010-04-05}}</ref> IPCC (2007) concluded that geoengineering options, such as ocean fertilization to remove CO<sub>2</sub> from the [[atmosphere]], remained largely unproven.<ref>{{cite book
+|year=2007
+|title=C. Mitigation in the short and medium term (until 2030). In (book section): Summary for Policymakers. In: Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz ''et al.'' (eds.))
+|publisher=Print version: Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. This version: IPCC website
+|isbn=978-0-521-88011-4
+|author=IPCC
+|url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/spmsspm-c.html
+|accessdate=2010-05-15}}</ref> It was judged that reliable cost estimates for geoengineering had not yet been published.
+
+Chapter 28 of the [[United States National Academy of Sciences|National Academy of Sciences]] report ''Policy Implications of Greenhouse Warming: Mitigation, Adaptation, and the Science Base'' (1992) defined geoengineering as "options that would involve large-scale engineering of our environment in order to combat or counteract the effects of changes in atmospheric chemistry."<ref name="nas_policy_implications">[http://books.nap.edu/openbook.php?record_id=1605&page=433 Policy Implications of Greenhouse Warming: Mitigation, Adaptation, and the Science Base] (1992), [[Committee on Science, Engineering, and Public Policy]] (COSEPUP)</ref>  They evaluated a range of options to try to give preliminary answers to two questions: can these options work and could they be carried out with a reasonable cost. They also sought to encourage discussion of a third question&nbsp;— what adverse side effects might there be. The following types of option were examined: reforestation, increasing ocean absorption of carbon dioxide (carbon sequestration) and screening out some sunlight. NAS also argued "Engineered countermeasures need to be evaluated but should not be implemented without broad understanding of the direct effects and the potential side effects, the ethical issues, and the risks.".<ref name="nas_policy_implications"/> In July 2011 a report by the [[United States Government Accountability Office]] on geoengineering found that "[c]limate engineering technologies do not now offer a viable response to global climate change."<ref>GAO (2011). Technical status, future directions, and potential responses. July 2011. [http://gao.gov/products/GAO-11-71]</ref>
+
+====Carbon dioxide removal====
+{{Main|Carbon dioxide removal|Greenhouse gas remediation|Carbon sequestration}}
+{{See also|Carbon air capture}}
+
+[[Carbon dioxide removal]] has been proposed as a method of reducing the amount of radiative forcing.  A variety of means of artificially capturing and storing carbon, as well as of enhancing natural sequestration processes, are being explored. The main natural process is [[photosynthesis]] by plants and single-celled organisms (see [[biosequestration]]). Artificial processes vary, and concerns have been expressed about the long-term effects of some of these processes.<ref name=RoyalSociety>The Royal Society, (2009) [http://royalsociety.org/displaypagedoc.asp?id=35151 "Geoengineering the climate: science, governance and uncertainty"]. Retrieved 2009-09-12.</ref>
+
+It is notable that the availability of cheap energy and appropriate sites for [[carbon capture and storage|geological storage]] of carbon may make [[carbon dioxide air capture]] viable commercially.  It is, however, generally expected that carbon dioxide air capture may be uneconomic when compared to [[carbon capture and storage]] from major sources&nbsp;— in particular, fossil fuel powered power stations, refineries, etc. In such cases, costs of energy produced will grow significantly.{{Citation needed|date=January 2009}} However, captured CO<sub>2</sub> can be used to force more [[crude oil]] out of [[oil field]]s, as [[Statoil]] and [[Royal Dutch Shell|Shell]] have made plans to do.<ref>[http://web.archive.org/web/20090212213143/http://www.forbes.com/feeds/afx/2006/03/08/afx2578203.html Statoil, Shell in plan to raise oil output by injecting {{CO2}} – report], [[AFX News]] via [[Forbes]], March 8, 2006, checked 2009-01-15</ref>  CO<sub>2</sub> can also be used in commercial [[greenhouse]]s, giving an opportunity to kick-start the technology.  Some attempts have been made to use [[algae]] to capture [[smokestack]] emissions,<ref>{{cite web|url=http://web.mit.edu/erc/spotlights/alg-all.html |title=MIT Energy Research Council : Research Spotlight |publisher=Web.mit.edu |accessdate=2010-08-26}}</ref>  notably the [[GreenFuel Technologies Corporation]], who have now shut down operations.<ref>{{cite web|url=http://www.greentechmedia.com/articles/read/greenfuel-technologies-closing-down-4670/ |title=GreenFuel Technologies Closing Down : Greentech Media |publisher=Greentechmedia.com |date=2009-05-13 |accessdate=2010-08-26}}</ref>
+
+====Solar radiation management====
+{{Main|Solar radiation management}}
+{{See also|Stratospheric sulfate aerosols (geoengineering)}}
+The main purpose of solar radiation management seek to reflect sunlight and thus reduce global warming. The ability of stratospheric [[sulfate aerosols]] to create a [[global dimming]] effect has made them a possible candidate for use in [[geoengineering]] projects.<ref>{{cite journal |url=http://journals.royalsociety.org/content/84j11614488142u8/ |journal=Phil. Trans. R. Soc. A |year=2008 |volume=366 |pages=4039–4056 |title=Global and Arctic climate engineering: numerical model studies |doi=10.1098/rsta.2008.0132 |author=Launder B. and J.M.T. Thompson |pmid=18757275 |issue=1882 |bibcode=2008RSPTA.366.4039C}}</ref>
+
+===Non-CO<sub>2</sub> greenhouse gases===
+
+CO<sub>2</sub> is not the only GHG relevant to mitigation,<ref>http://www.sciencemag.org/content/335/6065/183</ref> and governments have acted to regulate the emissions of other GHGs emitted by human activities ([[human impact on the environment|anthropogenic]] GHGs). The emissions caps agreed to by most developed countries under the [[Kyoto Protocol]] regulate the emissions of almost all the anthropogenic GHGs.<ref>
+{{cite journal
+| title=The Economics of the Kyoto Protocol
+| author=Grubb, M.
+| date=July–September 2003
+| journal=World Economics
+| volume=4
+| issue=3
+| pages=146–147
+| url=http://www.econ.cam.ac.uk/rstaff/grubb/publications/J36.pdf
+| format=PDF
+| accessdate=2010-03-25}}</ref>
+These gases are CO<sub>2</sub>, [[methane]] (chemical formula: CH<sub>4</sub>), [[nitrous oxide]] (N<sub>2</sub>O), the [[halocarbon|hydrofluorocarbons]] (abbreviated HFCs), perfluorocarbons (PFCs), and [[sulfur hexafluoride]] (SF<sub>6</sub>).
+
+Stabilizing the atmospheric concentrations of the different anthropogenic GHGs requires an understanding of their different physical properties. Stabilization depends both on how quickly GHGs are added to the atmosphere and how fast they are removed. The rate of removal is measured by the atmospheric lifetime of the GHG in question (see the [[greenhouse gas#Global warming potential|main GHG article]] for a list). Here, the lifetime is defined as the time required for a given perturbation of the GHG in the atmosphere to be reduced to 37% of its initial amount.<ref name="meehl stabilizing ghg concentrations"/>
+Methane has a relatively short atmospheric lifetime of about 12 years, while N<sub>2</sub>O's lifetime is about 110 years. For methane, a reduction of about 30% below current emission levels would lead to a stabilization in its atmospheric concentration, while for N<sub>2</sub>O, an emissions reduction of more than 50% would be required.<ref name="meehl stabilizing ghg concentrations"/>
+
+[[Methane]] is a significantly more powerful greenhouse gas than [[carbon dioxide]].  Burning one molecule of methane generates one molecule of carbon dioxide, indicating there may be no net benefit in using gas as a fuel source.<ref name="usclimatenetwork.org"/><ref name="epa.gov"/> Reducing the amount of waste methane produced in the first place and moving away from use of gas as a fuel source will have a greater beneficial impact, as might other approaches to productive use of otherwise-wasted methane. In terms of prevention, vaccines are in the works in Australia to reduce significant global warming contributions from [[methane]] released by livestock via [[flatulence]] and [[eructation]].<ref>[http://www.newscientist.com/article.ns?id=dn6431 Burp vaccine cuts greenhouse gas emissions] ''Rachel Nowak'' for NewScientist September 2004</ref>
+
+Another physical property of the anthropogenic GHGs relevant to mitigation is the different abilities of the gases to trap heat (in the form of [[infrared radiation]]). Some gases are more effective at trapping heat than others, e.g., SF<sub>6</sub> is 22,200 times more effective a GHG than CO<sub>2</sub> on a per-kilogram basis.<ref>
+{{cite book
+| year=2001
+| contribution=Halocarbons and related compounds
+| title=Technical summary
+| series=Climate Change 2001: The physical science basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change
+| editor=J.T. Houghton, ''et al.'', (eds.)
+| publisher=Print version: Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. This version: GRID-Arendal website
+| author=Albrittion, D.L., ''et al.''
+| url=http://www.grida.no/climate/ipcc_tar/wg1/017.htm#halocarbons
+| page=43
+| accessdate=2011-06-07}}
+</ref>
+A measure for this physical property is the [[global warming potential]] (GWP), and is used in the Kyoto Protocol.<ref>
+{{cite book
+| year=2007
+| contribution=Definition of "Global Warming Potential"
+| title=Annex I: Glossary
+| series=Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+| editor=Glossary editor: A.P.M. Baede. Editors of the main report: S. Solomon, ''et al.''
+| publisher=Print version: Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. This version: IPCC website
+| url=http://www.ipcc.ch/publications_and_data/ar4/wg1/en/annexessglossary-e-o.html
+| accessdate=2011-06-07}}
+</ref>
+
+Although not designed for this purpose, the [[Montreal Protocol]] has probably benefitted climate change mitigation efforts.<ref>
+{{cite journal
+| date=20 March 2007
+| journal=PNAS
+| volume=104
+| issue=12
+| pages=4814–4819
+| author=Velders, G.J.M., ''et al.''
+| title=The importance of the Montreal Protocol in protecting climate
+| doi=10.1073/pnas.0610328104
+| url=http://www.pnas.org/content/104/12/4814
+| accessdate=2011-06-07|bibcode = 2007PNAS..104.4814V }}
+</ref>
+The Montreal Protocol is an international [[treaty]] that has successfully reduced emissions of [[ozone-depleting substance]]s (e.g., [[Chlorofluorocarbon|CFCs]]), which are also greenhouse gases.
+
+==By sector==
+
+=== Transport ===
+[[File:BikesInAmsterdam 2004 SeanMcClean.jpg|right|thumb|[[Bicycle]]s have almost no [[carbon footprint]] compared to cars, and canal transport may represent a positive option for certain types of freight in the 21st century<ref>{{cite web|title=The Future of the Canals|url=http://www.canalmuseum.org.uk/education/teacher/lessonplan-future.pdf|publisher=London Canal Museum|accessdate=8 September 2013}}</ref>]]
+{{Main|Sustainable transport}}
+Modern [[Efficient energy use|energy-efficient technologies]], such as [[plug-in hybrid]] electric vehicles,  and  [[future energy development|development of new technologies]], such as [[hydrogen car]]s, may reduce the consumption of [[petroleum]] and emissions of [[carbon dioxide]]. A shift from [[Environmental impact of aviation|air transport]] and [[road transport|truck transport]] to electric [[rail transport]]
+would reduce emissions significantly.<ref>{{cite journal
+ |author = Lowe, Marcia D.
+ |title = Back on Track: The Global Rail Revival
+  |date=April 1994
+ |url =http://www.worldwatch.org/node/872
+ |accessdate = 2007-02-15}}</ref><ref>{{cite journal
+ |author = Schwartzman, Peter
+ |title = TRUCKS VS. TRAINS—WHO WINS?
+ |url =http://www.thezephyr.com/environ/trucktrain.html
+ |accessdate = 2007-02-15}}</ref> For electric vehicles, the reduction of carbon emissions will improve further if the way the required electricity is generated is [[low-carbon power]] in origin.
+
+===Urban planning===
+{{Main|Urban planning}}
+
+Effective [[urban planning]] to reduce [[Urban sprawl|sprawl]] would decrease Vehicle Miles Travelled (VMT), lowering emissions from transportation. Increased use of [[public transport]] can also reduce greenhouse gas emissions per passenger kilometer. Between 1982 and 1997, the amount of land consumed for [[urban development]] in the United States increased by 47 percent while the nation's population grew by only 17 percent.<ref>{{cite web
+|title=Who Sprawls Most? How Growth Patterns Differ Across the U.S
+|url=http://www.brookings.edu/es/urban/publications/fulton.pdf
+|first1=William|last1=Fulton
+|first2=Rolf|last2=Pendall
+|first3=Mai|last3=Nguyen
+|first4=Alicia|last4=Harrison
+|publisher=[[The Brookings Institution]] Center on Urban and Metropolitan Policy
+|location=Washington D.C.
+|year=2001
+|series=Survey Series}}</ref>
+Inefficient [[land use]] development practices have increased infrastructure costs as well as the amount of energy needed for transportation, community services, and buildings.
+
+At the same time, a growing number of citizens and government officials have begun advocating a smarter approach to land use planning. These [[smart growth]] practices include compact community development, multiple transportation choices, mixed land uses, and practices to conserve green space. These programs offer environmental, economic, and quality-of-life benefits; and they also serve to reduce energy usage and greennhouse gas emissions.
+
+Approaches such as [[New Urbanism]] and [[Transit-oriented development]] seek to reduce distances travelled, especially by private vehicles, encourage [[public transit]] and make [[walking]] and [[cycling]] more attractive options. This is achieved through "medium-density", [[mixed-use development|mixed-use planning]] and the concentration of housing within walking distance of [[town center]]s and [[transport node]]s.<!--Energy usage comparisons done in the book "Sustainability and Cities" by Peter Newman and Jeff Kentworthy.-->
+
+Smarter growth land use policies have both a direct and indirect effect on energy consuming behavior. For example, transportation energy usage, the number one user of petroleum fuels, could be significantly reduced through more compact and mixed use land development patterns, which in turn could be served by a greater variety of non-automotive based transportation choices.
+
+====Building design====
+{{Main|Sustainable architecture|Green building}}
+
+Emissions from [[House|housing]] are substantial,<ref>{{cite web|url=http://www.est.org.uk/myhome/climatechange/stats/homeenvironment/ |title=Energy Saving Trust: Home and the environment |publisher=[[Energy Saving Trust]] |accessdate=2010-08-26}}</ref> and government-supported energy efficiency programmes can make a difference.<ref>{{Cite news
+ |last = Osborne
+ |first = Hilary
+ |title = Energy efficiency 'saves £350m a year'
+ |newspaper = Guardian Unlimited
+ |date = 2005-08-02
+ |url = http://money.guardian.co.uk/utilities/story/0,11992,1541051,00.html?gusrc=ticker-103704
+ |location=London}}</ref>
+
+For institutions of higher learning in the United States, greenhouse gas emissions depend primarily on total area of buildings and secondarily on climate.<ref>{{cite journal|last=Fetcher|first=Ned|title=Effects of climate and institution size on greenhouse gas emissions from colleges and universities in the United States.|journal=Sustainability: The Journal of Record|date=December 2009|volume=2|issue=6|pages=362–367|url=http://www.liebertonline.com/doi/abs/10.1089/SUS.2009.9820|accessdate=2 March 2011|doi=10.1089/SUS.2009.9820}}</ref>  If climate is not taken into account, annual greenhouse gas emissions due to energy consumed on campuses plus purchased electricity can be estimated with the formula, ''E=aS''<sup>''b''</sup>, where ''a'' =0.001621 metric tonnes of CO<sub>2</sub> equivalent/square foot or 0.0241 metric tonnes of CO<sub>2</sub> equivalent/square meter and ''b'' = 1.1354.<ref>{{cite web|title=Greenhouse Gas Emissions of Colleges and Universities|url=http://www.wilkes.edu/pages/4243.asp|accessdate=2 March 2011}}</ref>
+
+New buildings can be constructed using [[passive solar building design]], [[low-energy building]], or [[zero-energy building]] techniques, using [[renewable heat]] sources. Existing buildings can be made more efficient through the use of insulation, high-efficiency appliances (particularly [[hot water heater]]s and [[furnaces]]), [[insulated glazing|double- or triple-glazed gas-filled windows]], external window shades, and building orientation and siting. Renewable heat sources such as [[geothermal heat pump|shallow geothermal]] and [[passive solar]] energy reduce the amount of greenhouse gasses emitted. In addition to designing buildings which are more energy-efficient to heat, it is possible to design buildings that are more energy-efficient to cool by using lighter-coloured, more reflective materials in the development of urban areas (e.g. by painting roofs white) and planting trees.<ref>{{cite web
+ |first = Arthur H.
+ |last = Rosenfeld
+ |first2 = Joseph J.
+ |last2 = Romm
+ |first3 = Hashem
+ |last3 = Akbari
+ |first4 = Alan C.
+ |last4 = Lloyd
+ |contribution = Painting the Town White – and Green
+ |title = Technology Review
+ |date = February–March 1997
+ |publisher = Massachusetts Institute of Technology
+ |url = http://eande.lbl.gov/HeatIsland/PUBS/PAINTING/}}</ref><ref>{{Cite book|author=Committee on Science, Engineering, and Public Policy|title=Policy Implications of Greenhouse Warming: Mitigation, Adaptation, and the Science Base |publisher=National Academy Press|place= Washington, D.C.|year=1992|isbn =0-309-04386-7}}</ref> This saves energy because it cools buildings and  reduces the [[urban heat island]] effect thus reducing the use of air conditioning.
+
+===Societal controls===
+Another method being examined is to make carbon a new currency by introducing tradeable "Personal Carbon Credits". The idea being it will encourage and motivate individuals to reduce their 'carbon footprint' by the way they live. Each citizen will receive a free annual quota of carbon that they can use to travel, buy food, and go about their business. It has been suggested that by using this concept it could actually solve two problems; pollution and poverty, old age pensioners will actually be better off because they fly less often, so they can cash in their quota at the end of the year to pay heating bills, etc.{{Citation needed|reason=previous source deadlink|date=April 2009}}
+
+====Population====
+[[File:Countries by population density.svg|thumb|400px|[[Population density]] by country]]
+Various organizations promote [[population control]] as a means for mitigating global warming.<ref>[http://www.unfpa.org/swp/2009/en/ch6.shtml Facing a changing world: women, population and climate], United Nations Population Fund</ref><ref>[http://www.sierraclub.org/population/reports/globalwarming.asp Population and Global Warming Factsheet] from Sierra Club</ref><ref>[http://www.nwf.org/popandenvironment/globalwarming.cfm Population and Global Warming] National Wild Life Federation</ref><ref>[http://www.populationconnection.org/site/DocServer/Global_Warming.pdf?docID=286 Population and the Environment Fact Sheet] Population Connection</ref><ref>[http://www.populationconnection.org/site/PageServer?pagename=about_us Population Connection]  Statement of Policy</ref>  Proposed measures include improving access to [[family planning]] and [[reproductive health]] care and information, reducing [[natalistic politics]], public education about the consequences of continued population growth, and improving access of women to education and economic opportunities.
+
+Population control efforts are impeded by there being somewhat of a taboo in some countries against considering any such efforts.<ref>[http://www.bmj.com/cgi/content/full/315/7120/1441 To the point of farce: a martian view of the hardinian taboo—the silence that surrounds population control] Maurice King, Charles Elliott BMJ</ref>  Also, various religions [[Religious views on birth control|discourage or prohibit]] some or all forms of [[birth control]].
+
+Population size has a different per capita effect on global warming in different countries, since the per capita production of anthropogenic greenhouse gases varies greatly by country.<ref>[http://www.sierraclub.org/population/factsheets/pop_and_globalwarming.asp Who is Heating Up the Planet? A Closer Look at Population and Global Warming] from Sierra Club</ref>
+
+==Costs and benefits==
+{{Main|Economics of climate change mitigation}}
+
+===Costs===
+
+The [[Stern Review]] proposes stabilising the concentration of greenhouse-gas emissions in the atmosphere at a maximum of 550ppm CO<sub>2</sub>e by 2050. The Review estimates that this would mean cutting total greenhouse-gas emissions to three quarters of 2007 levels. The Review further estimates that the cost of these cuts would be in the range −1.0 to +3.5% of World [[GDP]], (i.e. [[Gross world product|GWP]]), with an average estimate of approximately 1%.<ref name="stern"/> Stern has since revised his estimate to 2% of GWP.<ref>{{cite news |url=http://www.guardian.co.uk/environment/2008/jun/26/climatechange.scienceofclimatechange |title=Cost of tackling global climate change has doubled, warns Stern |first= Juliette |last=Jowit |first2= Patrick |last2=Wintour |newspaper=[[The Guardian]] |date=26 June 2008 |location=London}}</ref> For comparison, the Gross World Product (GWP) at [[Purchasing power parity|PPP]] was estimated at $74.5 trillion in 2010,<ref>{{cite web
+  | title = CIA World Factbook | publisher = US [[CIA]] | date = 18 Oct 2011
+  | url = https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html
+  | accessdate = 21 Oct 2011}}</ref> thus 2% is approximately $1.5 trillion. The Review emphasises that these costs are contingent on steady reductions in the cost of low-carbon technologies. Mitigation costs will also vary according to how and when emissions are cut: early, well-planned action will minimise the costs.<ref name="stern">Stern, N. (2007). ''Stern Review on the Economics of Climate Change: Part III: The Economics of Stabilisation.'' HM Treasury, London: http://hm-treasury.gov.uk/sternreview_index.htm</ref>
+
+One way of estimating the cost of reducing emissions is by considering the likely costs of potential technological and output changes. Policy makers can compare the [[marginal abatement costs]] of different methods to assess the cost and amount of possible abatement over time. The marginal abatement costs of the various measures will differ by country, by sector, and over time.<ref name="stern"/>
+
+===Benefits===
+[[File:Extreme weather in the US 1980-2011.png|thumb|350px|right|Total extreme weather cost and number of events costing more than $1 billion in the United States from 1980 to 2011.]]
+
+Yohe ''et al.'' (2007) assessed the literature on sustainability and climate change.<ref>{{cite book
+|year=2007
+|title=Executive summary. In (book chapter): Perspectives on climate change and sustainability. In: Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (M.L. Parry ''et al''., (eds.))
+|publisher=Print version: Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. Web version: IPCC website
+|isbn=978-0-521-88010-7
+|author=Yohe, G.W. ''et al''.
+|url=http://www.ipcc.ch/publications_and_data/ar4/wg2/en/ch20s20-es.html
+|accessdate=2010-05-15}}</ref> With high confidence, they suggested that up to the year 2050, an effort to cap greenhouse gas (GHG) emissions at 550&nbsp;ppm would benefit developing countries significantly. This was judged to be especially the case when combined with enhanced adaptation. By 2100, however, it was still judged likely that there would be significant [[effects of global warming]]. This was judged to be the case even with aggressive mitigation and significantly enhanced [[adaptive capacity]].
+
+===Sharing===
+
+One of the aspects of mitigation is how to share the costs and benefits of mitigation policies. There is no scientific consensus over how to share these costs and benefits (Toth ''et al.'', 2001).<ref>{{cite book
+|year=2001
+|title=10.4.7 Emerging Conclusions with Respect to Policy-relevant Scientific Questions. In (book chapter): Decision-making Frameworks. In: Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz ''et al''. Eds.)
+|publisher=Print version: Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. This version: [http://www.grida.no/ GRID-Arendal website]
+|author=Toth, F.L. ''et al''.
+|isbn=978-0-521-01502-8
+|url=http://www.grida.no/climate/ipcc_tar/wg3/449.htm
+|accessdate=2010-01-10}}</ref> In terms of the politics of mitigation, the UNFCCC's ultimate objective is to stabilize concentrations of GHG in the atmosphere at a level that would prevent "dangerous" climate change (Rogner ''et al.'', 2007).<ref>{{cite book
+|year=2007
+|author=Rogner, H.-H. ''et al.''
+|title=Executive Summary. In (book chapter): Introduction. In: Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (B. Metz ''et al.'' (eds))
+|url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch1s1-es.html
+|publisher=Print version: Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Web version: IPCC website
+|isbn=978-0-521-88011-4
+|accessdate=2010-05-05}}</ref> There is, however, no widespread agreement on how to define "dangerous" climate change.
+
+GHG emissions are an important correlate of wealth, at least at present (Banuri ''et al.'', 1996, pp.&nbsp;91–92).<ref name=banuri>{{cite book
+|year=1996
+|author=Banuri, T. ''et al''.
+|title=Equity and Social Considerations. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change (J.P. Bruce ''et al''. Eds.)
+|publisher=This version: Printed by Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. PDF version: IPCC website
+|format=PDF
+|url=http://www.ipcc.ch/ipccreports/sar/wg_III/ipcc_sar_wg_III_full_report.pdf
+|isbn=978-0-521-56854-8
+|doi=10.2277/0521568544}}</ref> Wealth, as measured by per capita income (i.e., income per head of population), varies widely between different countries. Activities of the poor that involve emissions of GHGs are often associated with basic needs, such as [[heating]] to stay tolerably warm. In richer countries, emissions tend to be associated with things like [[car]]s, [[central heating]], etc. The impacts of cutting emissions could therefore have different impacts on human [[welfare economics|welfare]] according wealth.
+
+====Distributing emissions abatement costs====
+
+There have been different proposals on how to allocate responsibility for cutting emissions (Banuri ''et al.'', 1996, pp.&nbsp;103–105):<ref name=banuri/>
+*'''[[Egalitarianism]]''': this system interprets the problem as one where each person has equal rights to a global resource, i.e., polluting the atmosphere.
+*'''Basic needs and Rawlsian criteria''': this system would have emissions allocated according to basic needs, as defined according to a minimum level of [[consumption (economics)|consumption]]. Consumption above basic needs would require countries to buy more emission rights. This can be related to [[John Rawls|Rawlsian]] [[philosophy]]. From this viewpoint, developing countries would need to be at least as well off under an emissions control regime as they would be outside the regime.
+*'''Proportionality and polluter-pays principle''': Proportionality reflects the ancient [[Aristotelianism|Aristotelian]] principle that people should receive in proportion to what they put in, and pay in proportion to the damages they cause. This has a potential relationship with the "polluter-pays principle", which can be interpreted in a number of ways:
+**''Historical responsibilities'': this asserts that allocation of emission rights should be based on patterns of past emissions. Two-thirds of the stock of GHGs in the atmosphere at present is due to the past actions of developed countries (Goldemberg ''et al.'', 1996, p.&nbsp;29).<ref name=goldemberg>{{cite book
+|year=1996
+|author=Goldemberg, J. ''et al''.
+|title=Introduction: scope of the assessment. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change (J.P. Bruce ''et al''. Eds.)
+|publisher=This version: Printed by Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. Web version: IPCC website
+|format=PDF
+|url=http://www.ipcc.ch/ipccreports/sar/wg_III/ipcc_sar_wg_III_full_report.pdf
+|isbn=978-0-521-56854-8
+|doi=10.2277/0521568544}}</ref>
+**''Comparable burdens and ability to pay'': with this approach, countries would reduce emissions based on comparable burdens and their ability to take on the costs of reduction. Ways to assess burdens include monetary costs per head of population, as well as other, more complex measures, like the [[UNDP]]'s [[Human Development Index]].
+**''[[Willingness to pay]]'': with this approach, countries take on emission reductions based on their ability to pay along with how much they benefit from reducing their emissions.
+
+====Specific proposals====
+
+*'''Ad hoc''': Lashof (1992) and Cline (1992) (referred to by Banuri ''et al.'', 1996, p.&nbsp;106),<ref name=banuri/> for example, suggested that allocations based partly on [[GNP]] could be a way of sharing the burdens of emission reductions. This is because GNP and economic activity are partially tied to carbon emissions.
+*'''Equal per capita entitlements''': this is the most widely cited method of distributing abatement costs, and is derived from egalitarianism (Banuri ''et al.'', 1996, pp.&nbsp;106–107). This approach can be divided into two categories. In the first category, emissions are allocated according to national population. In the second category, emissions are allocated in a way that attempts to account for historical (cumulative) emissions.
+*'''Status quo''': with this approach, historical emissions are ignored, and current emission levels are taken as a status quo right to emit (Banuri ''et al.'', 1996, p.&nbsp;107). An analogy for this approach can be made with [[fishery|fisheries]], which is a common, limited resource. The analogy would be with the atmosphere, which can be viewed as an exhaustible [[natural resource]] (Goldemberg ''et al.'', 1996, p.&nbsp;27).<ref name=goldemberg/> In [[international law]], one state recognized the long-established use of another state's use of the fisheries resource. It was also recognized by the state that part of the other state's economy was dependent on that resource.
+
+==Governmental and intergovernmental action==
+{{Main|Politics of global warming}}
+
+Many countries, both developing and developed, are aiming to use cleaner technologies (World Bank, 2010, p.&nbsp;192).<ref>{{cite book
+|year=2010
+|author=World Bank
+|title=World Development Report 2010: Development and Climate Change
+|publisher=The International Bank for Reconstruction and Development / The World Bank, 1818 H Street NW, Washington DC 20433
+|url=http://go.worldbank.org/BKLQ9DSDU0
+|isbn=978-0-8213-7987-5
+|doi=10.1596/978-0-8213-7987-5
+|accessdate=2010-04-06}}</ref> Use of these technologies aids mitigation and could result in substantial reductions in CO<sub>2</sub> emissions. Policies include targets for emissions reductions, increased use of renewable energy, and increased energy efficiency.  It is often argued that the results of climate change are more damaging in poor nations, where infrastructures are weak and few social services exist.  The [[Commitment to Development Index]] is one attempt to analyze rich country policies taken to reduce their disproportionate use of the global commons.  Countries do well if their greenhouse gas emissions are falling, if their gas taxes are high, if they do not subsidize the fishing industry, if they have a low fossil fuel rate per capita, and if they control imports of illegally cut tropical timber.
+
+===Kyoto Protocol===
+{{Main|Kyoto Protocol}}
+
+The main current international agreement on combating climate change is the [[Kyoto Protocol]], which came into force on 16 February 2005.  The Kyoto Protocol is an [[wiktionary:Amendment|amendment]] to the United Nations Framework Convention on Climate Change (UNFCCC).  [[List of Kyoto Protocol signatories|Countries that have ratified this protocol]] have committed to reduce their emissions of [[carbon dioxide]] and five other greenhouse gases, or engage in [[emissions trading]] if they maintain or increase emissions of these gases.
+
+===Temperature targets===
+[[File:Limiting global warming to 2 degrees Celsius - options to reduce greenhouse gas emissions (PBL)EN.svg|thumb|400px|alt=Refer to caption and image description|The graph on the right shows three "pathways" to meet the UNFCCC's 2&nbsp;°C target, labelled "global technology", "decentralised solutions", and "consumption change". Each pathway shows how various measures (e.g., improved energy efficiency, increased use of renewable energy) could contribute to emissions reductions. Image credit: PBL [[Netherlands Environmental Assessment Agency]].<ref>
+{{citation
+ | date=15 June 2012
+ | author=PBL Netherlands Environment Agency
+ | editors=van Vuuren, D. and M. Kok
+ | title=Roads from Rio+20
+ | chapter=Figure 6.14, in: Chapter 6: The energy and climate challenge
+ | url=http://www.pbl.nl/sites/default/files/cms/publicaties/pbl-2012-roads-from-rio-pathways-to-achieve-global-sustainability-goals-by-2050_0.pdf
+ | isbn=978-90-78645-98-6 }}, p.177, Report no: 500062001. [http://www.pbl.nl/en/publications/2012/roads-from-rio20 Report website.]
+</ref>]]
+Actions to mitigate climate change are sometimes based on the goal of achieving a particular temperature target. One of the targets that has been suggested is to limit the future increase in global mean temperature (global warming) to below 2&nbsp;°C, relative to the pre-industrial level.<ref name="Jaeger, C.C., and J. Jaeger 2011 15–26">{{citation
+ | author=Jaeger, C.C., and J. Jaeger
+ | title=Three views of two degrees
+ | work=Regional Environmental Change
+ | volume=11
+ | issue=1
+ | url=http://www.pik-potsdam.de/members/cjaeger/publications/2010-2000-1/three%20views.pdf
+ | pages=15–26
+ | year=2011
+ | doi=10.1007/s10113-010-0190-9
+ | issn=1436-3798
+ | publisher=Springer-Verlag
+}}</ref><ref name="Stockholm Environment Institute">{{citation
+ | editors=Rijsberman, F.J. and R.J. Stewart
+ | year=1990
+ | title=Targets and Indicators of Climate Change
+ | publisher=Stockholm Environment Institute
+ | location=Stockholm, Sweden
+ | isbn=91-88116-21-2
+ | url=http://www.sei-international.org/publications?pid=465
+}}. [http://www.climateemergencyinstitute.com/uploads/1990_one.pdf Summary available] from the Climate Emergency Institute.</ref> The 2&nbsp;°C target was adopted in 2010 by Parties to the United Nations Framework Convention on Climate Change.<ref name="UNFCCC">{{citation
+ | date=15 March 2011
+ | author=UNFCCC
+ | title=FCCC/CP/2010/7/Add.1: Report of the Conference of the Parties on its sixteenth session, held in Cancun from 29 November to 10 December 2010. Addendum. Part two: Action taken by the Conference of the Parties at its sixteenth session
+ | publisher=UN Office
+ | location=Geneva, Switzerland
+ | url=http://maindb.unfccc.int/library/view_pdf.pl?url=http://unfccc.int/resource/docs/2010/cop16/eng/07a01.pdf
+}}. [http://unfccc.int/documentation/documents/advanced_search/items/6911.php?priref=600006173 Available] as a PDF in English, Spanish, French, Arabic, and Russian.</ref> Most countries of the world are Parties to the UNFCCC.<ref name="unfccc.int">{{citation
+ | url=http://unfccc.int/essential_background/items/6031.php
+ | title=Essential Background
+ | author=UNFCCC
+ | publisher=UNFCCC
+ | date=3 May 2012
+}}</ref> The target had been adopted in 1996 by the [[Council of the European Union|European Union Council]].<ref>Oliver Geden (2013), [http://www.swp-berlin.org/fileadmin/contents/products/research_papers/2013_RP05_gdn.pdf Modifying the 2°C Target. Climate Policy Objectives in the Contested Terrain of Scientific Policy Advice, Political Preferences, and Rising Emissions], [[German Institute for International and Security Affairs|SWP]] Research Paper 5/13</ref>
+
+; Feasibility of 2&nbsp;°C
+
+Temperatures have increased by 0.8&nbsp;°C compared to the pre-industrial level, and another 0.5–0.7&nbsp;°C is already [[Climate commitment|committed]].<ref>Oliver Geden (2010), [http://www.swp-berlin.org/fileadmin/contents/products/comments/2010C19_gdn_ks.pdf What Comes After the Two-Degree Target?], [[German Institute for International and Security Affairs|SWP]] Comments 19</ref> The 2&nbsp;°C rise is typically associated in [[climate model]]s with a [[carbon dioxide equivalent]] concentration of 400–500 [[parts per million|ppm]] by volume; the current (April 2011) level of carbon dioxide alone is 393 ppm by volume, and rising at 1-3 ppm annually. Hence, to avoid a very likely breach of the 2&nbsp;°C target, CO<sub>2</sub> levels would have to be stabilised very soon; this is generally regarded as unlikely, based on current programs in place to date.<ref>{{cite web
+|title = EU climate change target "unfeasible"
+|publisher = EurActiv.com
+|date = 2006-02-01
+|url = http://www.euractiv.com/Article?tcmuri=tcm:29-152154-16&type=News
+|accessdate = 2007-02-21}}</ref><ref>{{cite news
+|url=http://www.guardian.co.uk/environment/2009/apr/14/global-warming-target-2c
+|title=World will not meet 2C warming target, climate change experts agree
+|publisher=Guardian News and Media Limited
+|last=Adam
+|first=David
+|date=14 April 2009
+|accessdate=2009-04-14
+|location=London}}</ref>  The importance of change is illustrated by the fact that world economic energy efficiency is improving at only half the rate of world [[economic growth]].<ref>[[United States Department of Energy]] [http://www.eia.doe.gov/emeu/cabs/carbonemiss/chapter1.html World Trends]</ref>
+
+; Views in the literature
+
+There is disagreement among experts over whether or not the 2&nbsp;°C target can be met.<ref>Oppenheimer, M., ''et al.'', Section 19.7.2: Limits to Mitigation, in: [http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap19_FGDall.pdf Chapter 19: Emergent risks and key vulnerabilities] (archived [https://web.archive.org/web/20140708062559/http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Chap19_FGDall.pdf July 8 2014]), pp.49-50, in {{harvnb|IPCC AR5 WG2 A|2014}}
+</ref> For example, according to Anderson and Bows (2011),<ref>Anderson, K. & Bows, A., 2011. [http://rsta.royalsocietypublishing.org/content/369/1934/20.full.pdf+html Beyond 'dangerous' climate change: emission scenarios for a new world]. Philos. Trans. Royal Society A.
+</ref> "there is little to no chance" of meeting the target. On the other hand, according to Alcamo ''et al.'' (2013):<ref>
+{{harvnb|Alcamo|others|2013|p=xi}}
+</ref>
+*Policies adopted by parties to the UNFCCC are too weak to meet a 2 or 1.5&nbsp;°C target. However, these targets might still be achievable if more stringent mitigation policies are adopted immediately.
+*Cost-effective 2&nbsp;°C scenarios project annual global greenhouse gas emissions to peak before the year 2020, with deep cuts in emissions thereafter, leading to a reduction in 2050 of 41% compared to 1990 levels.<ref>
+{{harvnb|Alcamo|others|2013|pp=xiii-xiv}}
+</ref>
+
+; Other targets
+
+Scientific analysis can provide information on the impacts of climate change and associated policies, such as reducing GHG emissions. However, deciding what policies are best requires value judgements.<ref name="wg 2 ch19 dangerous climate change"/> For example, limiting global warming to 1&nbsp;°C relative to pre-industrial levels may help to reduce climate change damages more than a 2&nbsp;°C limit.<ref>
+"Implication for Carbon Emissions Target," in: {{harvnb|Hansen|others|2013|p=15}}
+</ref> However, a 1&nbsp;°C limit may be more costly to achieve than a 2&nbsp;°C limit.<ref>
+"4. Discussion and conclusions," in: {{harvnb|Luderer|others|2013|p=6}}
+</ref>
+
+According to some analysts, the 2 °C "guardrail" is inadequate for the needed degree and timeliness of mitigation.<ref name="existing policies inadequate"/> On the other hand, some economic studies suggest more modest mitigation policies.<ref name="van vuuren mitigation policy"/> For example, the emissions reductions proposed by Nordhaus (2010)<ref name="nordhaus 2010 cba">
+Figure 3, in: {{harvnb|Nordhaus|2010|p=4}}
+</ref> might lead to global warming (in the year 2100) of around 3&nbsp;°C, relative to pre-industrial levels.
+
+===Encouraging use changes===
+
+====Emissions tax====
+{{See also|carbon tax|energy tax|fee and dividend}}
+
+An emissions tax on greenhouse gas emissions requires individual emitters to pay a fee, charge or tax for every tonne of greenhouse gas released into the atmosphere.<ref name="gupta emissions tax">{{cite book
+|year=2007
+|contribution=13.2.1.2 Taxes and charges
+|title=Policies, instruments, and co-operative arrangements
+|series=Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change
+|editor=B. Metz ''et al''.
+|publisher=Print version: Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. This version: IPCC website
+|author=Gupta, S. ''et al''.
+|url=http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch13s13-2-1-2.html
+|accessdate=2010-03-18}}</ref> Most environmentally related taxes with implications for greenhouse gas emissions in OECD countries are levied on energy products and motor vehicles, rather than on CO<sub>2</sub> emissions directly.<ref name="gupta emissions tax"/>
+
+Emission taxes can be both cost-effective and environmentally effective.<ref name="gupta emissions tax"/>  Difficulties with emission taxes include their potential unpopularity, and the fact that they cannot guarantee a particular level of emissions reduction.<ref name="gupta emissions tax"/>  Emissions or energy taxes also often fall disproportionately on lower income classes. In developing countries, institutions may be insufficiently developed for the collection of emissions fees from a wide variety of sources.<ref name="gupta emissions tax"/>
+
+====Making the emitting of CO2 illegal====
+Another option is to replace the emission [[Negative feedback|reduction-positive]] approach{{clarify|date=February 2013}} proposed with the Kyoto protocol and its successor with an emitted GHG-negative approach.{{clarify|date=February 2013}}
+
+Scientist [[Ken Caldeira]] has proposed making greenhouse gas-emitting devices illegal.<ref>[http://e360.yale.edu/feature/geoengineering_the_planet_the_possibilities_and_the_pitfalls/2201/]</ref>
+
+====Subsidies====
+According to [[Mark Z. Jacobson]], a program of subsidization balanced against expected flood costs could pay for conversion to 100% renewable power by 2030.<ref name="wws-review">Jacobson, M.Z. (2009) [http://www.stanford.edu/group/efmh/jacobson/PDF%20files/ReviewSolGW09.pdf "Review of solutions to global warming, air pollution, and energy security"] ''Energy and Environmental Science'' '''2''':148-73 [http://dx.doi.org/10.1039/b809990c doi 10.1039/b809990c] (review.)</ref> Jacobson, and his colleague Mark Delucchi, suggest that the cost to generate and transmit power in 2020 will be less than 4 cents per kilowatt hour (in 2007 dollars) for wind, about 4 cents for wave and hydroelectric, from 4 to 7 cents for geothermal, and 8 cents per kwh for solar, fossil, and nuclear power.<ref name=wws>{{Cite journal|last1 = [[Mark Z. Jacobson|Jacobson]]|first1 = M.Z.|last2 = Delucchi|first2 = M.A.|year = 2009|title = A Plan to Power 100 Percent of the Planet with Renewables" (originally published as "A Path to Sustainable Energy by 2030")|url = http://www.scientificamerican.com/article.cfm?id=a-path-to-sustainable-energy-by-2030|journal = [[Scientific American]]|volume = 301|issue = 5| pages = 58–65|pmid = 19873905|doi=10.1038/scientificamerican1109-58}}</ref>
+
+====Carbon emissions trading====
+{{Main|Carbon emissions trading}}
+
+With the creation of a [[Market (economics)|market]] for [[carbon emissions trading|trading carbon dioxide emissions]] within the Kyoto Protocol, it is likely that London financial markets will be the centre for this potentially highly lucrative business; the [[NYSE|New York]] and [[Chicago]] stock markets may have a lower trade volume than expected as long as the US maintains its rejection of the [[Kyoto Protocol|Kyoto]].<ref>[http://observer.guardian.co.uk/focus/story/0,,1509761,00.html How high-pressure politics threatens action on climate] The Observer June 2005</ref>
+
+However, emissions trading may delay the phase-out of fossil fuels.<ref>''StoryOfStuff.com'' (2009) [http://storyofstuff.com/capandtrade/ "The Story of Cap and Trade"]</ref>
+
+The [[European Union Emission Trading Scheme]] (EU ETS)<ref>[http://ec.europa.eu/environment/climat/emission.htm Emission Trading Scheme (EU ETS)] from ''ec.europa.eu''</ref> is the largest multi-national, greenhouse gas emissions trading scheme in the world.  It commenced operation on 1 January 2005, and all 25 member states of the [[European Union]] participate in the scheme which has created a new market in carbon dioxide allowances estimated at 35&nbsp;billion Euros (US$43&nbsp;billion) per year.<ref>[http://www.opendemocracy.net/globalization-climate_change_debate/2570.jsp The $20,000,000,000,000 question] ''Robins, Nick'' for Opendemocracy</ref> The [[Chicago Climate Exchange]] was the first (voluntary) emissions market, and is soon to be followed by Asia's first market ([[Asia Carbon Exchange]]). A total of 107 million metric tonnes of carbon dioxide equivalent have been exchanged through projects in 2004, a 38% increase relative to 2003 (78 Mt CO<sub>2</sub>e).<ref>[http://carbonfinance.org/docs/CarbonMarketStudy2005.pdf State and Trends of the Carbon Market] International Emissions Trading Association 2005</ref>
+
+Twenty three [[multinational corporation]]s have come together in the [[G8 Climate Change Roundtable]], a business group formed at the January 2005 [[World Economic Forum]]. The group includes [[Ford Motor Company|Ford]], [[Toyota]], [[British Airways]] and [[BP]]. On 9 June 2005 the Group published a statement<ref>[http://www.weforum.org/pdf/g8_climatechange.pdf Statement of G8 Climate Change Roundtable] Convened by the World Economic Forum June 2005</ref> stating that there was a need to act on climate change and claiming that market-based solutions can help. It called on governments to establish "clear, transparent, and consistent price signals" through "creation of a long-term policy framework" that would include all major producers of greenhouse gases.
+
+The [[Regional Greenhouse Gas Initiative]] is a proposed carbon trading scheme being created by nine North-eastern and Mid-Atlantic [[United States|American]] states; [[Connecticut]], [[Delaware]], [[Maine]], [[Massachusetts]], [[New Hampshire]], [[New Jersey]], [[New York]], [[Rhode Island]] and [[Vermont]]. The scheme was due to be developed by April 2005 but has not yet been completed.
+
+===Implementation===
+Implementation puts into effect climate change mitigation strategies and targets. These can be targets set by international bodies or voluntary action by individuals or institutions. This is the most important, expensive and least appealing aspect of environmental governance.<ref name="Evans">Evans. J (forthcoming 2012) Environmental Governance, Routledge, Oxon</ref>
+
+====Funding====
+Implementation requires funding sources but is often beset by disputes over who should provide funds and under what conditions.<ref name="Evans"/> A lack of funding can be a barrier to successful strategies as there are no formal arrangements to finance climate change development and implementation.<ref name="IHDP">Biesbroek. G.R, Termeer. C.J.A.M, Kabat. P, Klostermann.J.E.M (unpublished) Institutional governance barriers for the development and implementation of climate adaptation strategies, Working paper for the International Human Dimensions Programme (IHDP) conference “Earth System Governance: People, Places, and the Planet”, December 2–4, Amsterdam, the Netherlands</ref> Funding is often provided by nations, groups of nations and increasingly NGO and private sources. These funds are often channelled through the Global Environmental Facility (GEF). This is an environmental funding mechanism in the World Bank which is designed to deal with global environmental issues.<ref name="Evans"/> The GEF was originally designed to tackle four main areas: biological diversity, climate change, international waters and ozone layer depletion, to which land degradation and persistent organic pollutant were added. The GEF funds projects that are agreed to achieve global environmental benefits that are endorsed by governments and screened by one of the GEF’s implementing agencies.<ref>Mee. L. D, Dublin. H. T, Eberhard. A. A (2008) Evaluating the Global Environment Facility: A goodwill gesture or a serious attempt to deliver global benefits?, Global Environmental Change 18, 800–810</ref>
+
+====Problems====
+There are numerous issues which result in a current perceived lack of implementation.<ref name="Evans"/> It has been suggested that the main barriers to implementation are, Uncertainty, Fragmentation, Institutional void, Short time horizon of policies and politicians and Missing motives and willingness to start adapting. The relationships between many climatic processes can cause large levels of uncertainty as they are not fully understood and can be a barrier to implementation. When information on climate change is held between the large numbers of actors involved it can be highly dispersed, context specific or difficult to access causing fragmentation to be a barrier. Institutional void is the lack of commonly accepted rules and norms for policy processes to take place, calling into question the legitimacy and efficacy of policy processes. The Short time horizon of policies and politicians often means that climate change policies are not implemented in favour of socially favoured societal issues.  Statements are often posed to keep the illusion of political action to prevent or postpone decisions being made. Missing motives and willingness to start adapting is a large barrier as it prevents any implementation.<ref name="IHDP"/>
+
+====Occurrence====
+Despite a perceived lack of occurrence, evidence of implementation is emerging internationally. Some examples of this are the initiation of NAPA’s and of joint implementation. Many developing nations have made National Adaptation Programs of Action (NAPAs) which are frameworks to prioritize adaption needs.<ref name="EMJ">Preston. B. L, Westaway. R. M, Yuen. E. Y (2004) Climate adaptation planning in practice: an evaluation of adaptation plans from three developed nations, European Management Journal, 22(3) 304-314</ref> The implementation of many of these is supported by GEF agencies.<ref>UNFCCC (2011) Report on the twentieth meeting of the Least Developed Countries Expert Group, Subsidiary Body for Implementation, United Nations Framework Convention on Climate Change</ref> Many developed countries are implementing ‘first generation’ institutional adaption plans particularly at the state and local government scale.<ref name="EMJ"/> There has also been a push towards joint implementation between countries by the UNFCC as this has been suggested as a cost-effective way for objectives to be achieved.<ref>UNFCCC (2011) Annual report of the Joint Implementation Supervisory Committee to the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol, United Nations Framework Convention on Climate Change</ref>
+
+===Territorial policies===
+{{See also|List of countries by carbon dioxide emissions}}
+
+====United States====
+{{main|Climate change in the United States}}
+Efforts to reduce [[greenhouse gas emissions by the United States]] include [[Energy policy of the United States|energy policies]] which encourage efficiency through programs like [[Energy Star]], [[Commercial Building Integration]], and the [[Industrial Technologies Program]].<ref>{{cite web|url=http://www.eere.energy.gov/industry/bestpractices/index.html |title=Industrial Technologies Program: BestPractices |publisher=Eere.energy.gov |accessdate=2010-08-26}}</ref> On 12 November 1998, Vice President [[Al Gore]] symbolically signed the Kyoto Protocol, but he indicated participation by the developing nations was necessary prior its being submitted for ratification by the [[United States Senate]].<ref>{{cite news|url=http://www.cnn.com/ALLPOLITICS/1997/12/11/kyoto/ |date=1997-12-11 |title=Clinton Hails Global Warming Pact|work =All Politics|publisher =CNN|accessdate=2006-11-05}}</ref>
+
+In 2007, Transportation Secretary [[Mary Peters (politician)|Mary Peters]], with White House approval, urged governors and dozens of members of the House of Representatives to block California’s first-in-the-nation limits on greenhouse gases from cars and trucks, according to e-mails obtained by Congress.<ref>[http://www.commondreams.org/archive/2007/09/25/4099/ "How the White House Worked to Scuttle California’s Climate Law"], [[San Francisco Chronicle]], September 25, 2007</ref> The [[U.S. Climate Change Science Program]] is a group of about twenty federal agencies and US Cabinet Departments, all working together to address global warming.
+
+The [[Bush administration (2000)|Bush administration]] pressured American scientists to suppress discussion of global warming, according to the testimony of the Union of Concerned Scientists to the Oversight and Government Reform Committee of the U.S. House of Representatives.<ref name=autogenerated2>Reuters, January 30, 2007, free archived version at http://www.commondreams.org/headlines07/0130-10.htm, last visited Jan. 30, '07</ref><ref>Written testimony of Dr. Grifo before the Committee on Oversight and Government Reform of the U.S. House of Representatives on January 30, 2007, archived at http://oversight.house.gov/Documents/20070130113153-55829.pdf</ref> "High-quality science" was "struggling to get out," as the Bush administration pressured scientists to tailor their writings on global warming to fit the Bush administration's skepticism, in some cases at the behest of an ex-oil industry lobbyist. "Nearly half of all respondents perceived or personally experienced pressure to eliminate the words 'climate change,' 'global warming' or other similar terms from a variety of communications." Similarly, according to the testimony of senior officers of the [[Government Accountability Project]], the White House attempted to bury the report "National Assessment of the Potential Consequences of Climate Variability and Change," produced by U.S. scientists pursuant to U.S. law.<ref>written testimony of Rick Piltz before the Committee on Oversight and Government Reform of the U.S. House of Representatives on January 30, 2007, archived at http://oversight.house.gov/Documents/20070130113813-92288.pdf last visited Jan. 30, 07</ref> Some U.S. scientists resigned their jobs rather than give in to White House pressure to underreport global warming.<ref name=autogenerated2 />
+
+In the absence of substantial federal action, state governments have adopted emissions-control laws such as the [[Regional Greenhouse Gas Initiative]] in the Northeast and the [[Global Warming Solutions Act of 2006]] in California.<ref>{{cite news| url=http://www.nytimes.com/2012/10/14/science/earth/in-california-a-grand-experiment-to-rein-in-climate-change.html | work=The New York Times | first=Felicity | last=Barringer | title=In California, a Grand Experiment to Rein in Climate Change | date=2012-10-13}}</ref>
+
+====Developing countries====
+
+In order to reconcile [[economic development]] with mitigating carbon emissions, [[developing countries]] need particular support, both financial and technical. One of the means of achieving this is the Kyoto Protocol's [[Clean Development Mechanism]] (CDM). The [[World Bank]]'s Prototype Carbon Fund<ref>[http://carbonfinance.org/pcf/ Prototype Carbon Fund] from the World Bank Carbon Finance Unit</ref> is a [[public private partnership]] that operates within the CDM.
+
+An important point of contention, however, is how overseas development assistance not directly related to climate change mitigation is affected by funds provided to climate change mitigation.<ref name=ODI>Jessica Brown, Neil Bird and Liane Schalatek (2010) [http://www.odi.org.uk/resources/details.asp?id=4931&title=climate-finance-additionality-definitions-implications Climate finance additionality: emerging definitions and their implications] [[Overseas Development Institute]]</ref> One of the outcomes of the UNFCC [[Copenhagen Climate Conference]] was the [[Copenhagen Accord]], in which developed countries promised to provide US $30&nbsp;million between 2010 and 2012 of new and additional resources.<ref name=ODI/> Yet it remains unclear what exactly the definition of additional is and the [[European Commission]] has requested its member states to define what they understand to be additional, and researchers at the [[Overseas Development Institute]] have found 4 main understandings:<ref name=ODI/>
+# Climate finance classified as aid, but additional to (over and above) the [[Millennium Development Goals#Controversy over funding of 0.7% of GNI|‘0.7%’ ODA target]];
+# Increase on previous year's [[Official Development Assistance]] (ODA) spent on climate change mitigation;
+# Rising ODA levels that include climate change finance but where it is limited to a specified percentage; and
+# Increase in climate finance not connected to ODA.
+The main point being that there is a conflict between the [[OECD]] states budget deficit cuts, the need to help developing countries adapt to develop sustainably and the need to ensure that funding does not come from cutting aid to other important [[Millennium Development Goals]].<ref name=ODI/>
+
+However, none of these initiatives suggest a quantitative cap on the emissions from developing countries. This is considered as a particularly difficult policy proposal as the economic growth of developing countries are proportionally reflected in the growth of greenhouse emissions.  Critics{{Who|date=May 2010}} of mitigation often argue that, the developing countries' drive to attain a comparable living standard to the developed countries would doom the attempt at mitigation of global warming. Critics{{Who|date=May 2010}} also argue that holding down emissions would shift the human cost of global warming from a general one to one that was borne most heavily by the poorest populations on the planet.
+
+In an attempt to provide more opportunities for developing countries to adapt clean technologies, [[UNEP]] and [[WTO]] urged the international community to reduce trade barriers and to conclude the [[Doha round|Doha trade round]] "which includes opening trade in environmental goods and services".<ref>[http://www.un.org/apps/news/story.asp?NewsID=31278&Cr=trade&Cr1=environment# Free trade can help combat global warming, finds UN report] UN News Centre, 26 June 2009</ref>
+
+==Non-governmental approaches==
+While many of the proposed methods of mitigating global warming require governmental funding, legislation and regulatory action, individuals and [[business action on climate change|businesses]] can also play a part in the mitigation effort.
+
+===Choices in personal actions and business operations===
+
+Environmental groups encourage [[Individual and political action on climate change|individual action against global warming]], often aimed at the [[consumer]]. Common recommendations include lowering home heating and cooling usage, burning less gasoline, supporting renewable [[energy sources]], buying local products to reduce transportation, turning off unused devices, and various others.
+
+A [[geophysicist]] at [[Utrecht University]] has urged similar institutions to hold the vanguard in voluntary mitigation, suggesting the use of communications technologies such as [[videoconferencing]] to reduce their dependence on long-haul flights.<ref>
+{{cite journal
+|author=Andrew Biggin
+|date=16 August 2007
+|title=Scientific bodies must take own action on emissions
+|journal=[[Nature (journal)|Nature]]
+|volume=448
+|issue=7155
+|page=749
+|doi=10.1038/448749a
+|pmid=17700677
+|bibcode = 2007Natur.448..749B }}</ref>
+
+==== Air travel and shipment ====
+
+In 2008, climate scientist [[Kevin Anderson (scientist)|Kevin Anderson]] raised concern about the growing effect of rapidly increasing global air transport on the climate in a paper,<ref>{{cite journal
+|last=Anderson
+|first=K
+|last2=Bows
+|first2=A
+|year=2008
+|url=http://rsta.royalsocietypublishing.org/content/366/1882/3863.full
+|title= Reframing the climate change challenge in light of post-2000 emission trends
+|journal=Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+|volume=366 |issue=1882 |pages=3863–3882
+ |doi=10.1098/rsta.2008.0138}}</ref> and a presentation,<ref name="anderson">{{cite web
+|last= Anderson
+|first=K
+|date=June 17, 2008
+|url=http://transitionculture.org/wp-content/uploads/kevin-anderson-2.ppt
+|title=Reframing climate change: from long-term targets to emission pathways
+|quote= (esp. slide 24 onward)}}</ref> suggesting that reversing this trend is necessary to reduce emissions.
+
+Part of the difficulty is that when [[Environmental impact of aviation|aviation emissions]] are made at high altitude, the climate impacts are much greater than otherwise. Others have been raising the related concerns of the increasing [[hypermobility (travel)|hypermobility]] of individuals, whether traveling for business or pleasure, involving frequent and often long distance air travel, as well as air shipment of goods.<ref name="gossling">Gössling S, Ceron JP, Dubois G, Hall CM, Gössling IS, Upham P, [[Earthscan]] London (2009). Hypermobile travellers. and Implications for Carbon Dioxide Emissions Reduction. In: Climate Change and Aviation: Issues, Challenges and Solutions, London. The chapter: ''[http://alicante.academia.edu/documents/0076/1866/chap06_copy.pdf]''</ref>
+
+===Business opportunities and risks===
+{{Main|Business action on climate change}}
+
+On 9 May 2005 [[Jeff Immelt]], the [[chief executive]] of [[General Electric]] (GE), announced plans to reduce GE's global warming related emissions by one percent by 2012. "GE said that given its projected growth, those emissions would have risen by 40 percent without such action."<ref>{{cite web |url=http://www.msnbc.msn.com/id/7791657/ |title=Green Electric? GE unveils eco-strategy publisher=MSNBC}}</ref>
+
+On 21 June 2005 a group of leading [[airline]]s, [[airport]]s and [[aerospace]] [[manufacturer]]s pledged to work together to reduce the negative [[environmental impact of aviation]], including limiting the impact of air travel on climate change by improving [[fuel efficiency]] and reducing carbon dioxide emissions of new aircraft by fifty percent per seat kilometre by 2020 from 2000 levels. The group aims to develop a common reporting system for carbon dioxide emissions per aircraft by the end of 2005, and pressed for the early inclusion of aviation in the [[European Union]]'s carbon emission trading scheme.<ref>{{cite web |url=http://news.ft.com/cms/s/747d20ea-e1ff-11d9-bf18-00000e2511c8.html |title=Aviation groups set targets to limit their environmental impact publisher=FT.com}}</ref>
+
+===Legal action===
+In some countries, those affected by climate change may be able to sue major producers.  Attempts at litigation have been initiated by entire peoples such as Palau<ref>http://www.pbs.org/wnet/need-to-know/video/video-paradise-lost/14421/ Palau suing the industrialised countries over global warming</ref> and the Inuit,<ref>[http://www.msnbc.msn.com/id/6908719/site/newsweek/ Inuit suing the US in regards to global warming] {{dead link|date=February 2013}}</ref> as well as non-governmental organizations such as the Sierra Club.<ref>[http://www.newson6.com/story/9138384/environmental-integrity-project-sierra-club-announce-plans-to-sue-epa-unless-it-revises-nitrogen-oxide-emissions-standard-curbs-nitrous-oxide?clienttype=printable Sierra club suing EPA]</ref>  Although proving that particular weather events are due specifically to global warming may never be possible,<ref>Edward Lorenz (1982): "Climate is what you expect, weather is what you get"</ref> methodologies have been developed to show the increased risk of such events caused by global warming.<ref>Stott, et al. (2004), "Human contribution to the European heatwave of 2003", Nature, Vol. 432, 2 December 2004</ref>
+
+For a legal action for [[negligence]] (or similar) to succeed, "Plaintiffs ... must show that, more probably than not, their individual injuries were caused by the risk factor in question, as opposed to any other cause. This has sometimes been translated to a requirement of a relative risk of at least two."<ref>Grossman, Columbia J. of Env. Law, 2003</ref> Another route (though with little legal bite) is the [[World Heritage Convention]], if it can be shown that climate change is affecting [[World Heritage Site]]s like [[Mount Everest]].<ref>{{cite web|url=http://www.heatisonline.org/contentserver/objecthandlers/index.cfm?id=4950&method=full |title=Climate change 'ruining' Everest |publisher=Heatisonline.org |date=2004-11-17 |accessdate=2010-08-26}}</ref><ref>[http://www.bbc.co.uk/caribbean/news/story/2004/11/041117_climate-belize.shtml Climate change 'ruining' Belize] BBC November 2004</ref>
+
+Legal action has also been taken to try to force the [[United States Environmental Protection Agency|U.S. Environmental Protection Agency]] to regulate greenhouse gas emissions under the [[Clean Air Act (United States)|Clean Air Act]],<ref>[http://www.climatelaw.org/cases Climate Justice] Ongoing Cases</ref> and against the [[Export-Import Bank of the United States|Export-Import Bank]] and [[Overseas Private Investment Corporation|OPIC]] for failing to assess environmental impacts (including global warming impacts) under [[NEPA]].{{Citation needed|date=September 2007}}
+
+According to a 2004 study commissioned by [[Friends of the Earth]], [[ExxonMobil]] and its predecessors caused 4.7 to 5.3 percent of the world's man-made carbon dioxide emissions between 1882 and 2002. The group suggested that such studies could form the basis for eventual legal action.<ref>[http://www.foe.co.uk/resource/press_releases/exxonmobils_contribution_t_28012004.html Exxon Mobile's Contribution to Global Warming Revealed] from Friends of the Earth</ref>
+
+==See also==
+{{Portal|Global warming|Energy}}
+{{columns-list|2|
+
+*[[List of countries by ratio of GDP to carbon dioxide emissions]]
+*[[4 Degrees and Beyond International Climate Conference]]
+*[[Alternative propulsion]]
+*[[Avoiding dangerous climate change]]
+*[[Biochar]]
+*[[Black carbon]]
+*[[Carbon diet]]
+*[[Carbon negative fuel]]
+* [[Climate change denial]]
+*[[Climate change mitigation scenarios]]
+*[[Climate bond]]
+*[[Coal]]
+*[[Contraction and Convergence]]
+*[[Air pollution#Reduction efforts|Emissions reduction efforts]]
+*[[Green IT]]
+*[[Hell and High Water: Global Warming]]
+*[[Hypermobility (travel)|Hypermobility]]
+*[[Iron fertilization]]
+*[[List of energy storage projects]]
+*[[Low carbon diet]]
+*[[Mitigation of peak oil]]
+*[[Oil phase-out]]
+*[[Human overpopulation|Overpopulation]]
+*[[Resilience (ecology)]]
+*[[Resistance (ecology)]]
+*[[Stratospheric sulfur aerosols (geoengineering)]]
+*[[Vulnerability]]
+*[[Zero-carbon economy]]
+*[[Environmental impact of the coal industry]]
+}}
+
+===By country===
+*[[Debate over China's economic responsibilities for climate change mitigation]]
+*[[European Climate Change Programme]]
+*[[Mitigation of global warming in Australia]]
+
+==Notes==
+{{Reflist|colwidth=30em}}
+
+==References==
+
+*{{citation
+ | year=2013
+| author=Alcamo, J., ''et al.''
+ | ref=CITEREFAlcamoothers2013
+| title=The Emissions Gap Report 2013
+| publisher=United Nations Environment Programme (UNEP)
+| location=Nairobi, Kenya
+| url=http://www.unep.org/publications/ebooks/emissionsgapreport2013/
+}} Archived [https://web.archive.org/web/20140413053125/http://www.unep.org/publications/ebooks/emissionsgapreport2013/ 13 April 2014].
+
+*{{citation
+ | ref=CITEREFClarkeothers2007
+ | author=Clarke, L., ''et al.''
+ | date=July 2007
+ | title=Scenarios of Greenhouse Gas Emissions and Atmospheric Concentrations. Sub-report 2.1A of Synthesis and Assessment Product 2.1 by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research
+ | publisher=Department of Energy, Office of Biological & Environmental Research
+ | location=Washington, DC., USA
+ | url=http://library.globalchange.gov/products/assessments/2004-2009-synthesis-and-assessment-products/sap-2-1a-scenarios-of-greenhouse-gas-emissions-and-atmospheric-concentrations
+}}
+
+*{{citation
+ | title=Impact of Japan Earthquake on Views about nuclear energy. Findings from a Global Snap Poll in 47 countries by WIN-Gallup International (21 March – 10 April 2011)
+ | author=Gallup International
+ | url=http://www.nrc.co.jp/report/pdf/110420_2.pdf
+ | date=19 April 2011
+ }}
+*{{citation
+ | title=Climate Change and Nuclear Power 2008. A report by the International Atomic Energy Agency (IAEA)
+ | author=IAEA
+ | url=http://www.iaea.org/OurWork/ST/NE/Pess/assets/08-33461-CCNP-Brochure.pdf
+}}
+
+*Open access: {{citation
+ | title=Assessing “Dangerous Climate Change”: Required Reduction of Carbon Emissions to Protect Young People, Future Generations and Nature
+ | year=2013
+ | author=Hansen, J., ''et al.''
+ | ref=CITEREFHansenothers2013
+ | journal= PLoS ONE
+ | volume=8
+ | issue=12
+ | url=http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0081648
+ | doi=10.1371/journal.pone.0081648
+}}. Archived [https://web.archive.org/web/20140814233219/http://www.plos.org/wp-content/uploads/2013/05/pone-8-12-hansen.pdf 14 August 2014].
+
+* {{Citation
+ |year   = 2001
+ |author = IPCC TAR WG3
+ |author-link = IPCC
+ |title  = Climate Change 2001: Mitigation
+ |series = Contribution of Working Group III to the [[IPCC Third Assessment Report|Third Assessment Report]] of the Intergovernmental Panel on Climate Change
+ |editor =  Metz, B.; Davidson, O.; Swart, R.; and Pan, J.
+ |publisher = Cambridge University Press
+ |url =  http://www.grida.no/publications/other/ipcc%5Ftar/?src=/climate/ipcc_tar/wg3/index.htm
+ |isbn = 0-521-80769-7 
+}} (pb: {{ISBNT|0-521-01502-2}}).
+
+* {{Citation
+|year   = 2007
+|author = IPCC AR4 WG1
+|author-link = IPCC
+|title  = Climate Change 2007: The Physical Science Basis
+|series = Contribution of Working Group I to the [[IPCC Fourth Assessment Report|Fourth Assessment Report]] of the Intergovernmental Panel on Climate Change
+|editor = Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; Marquis, M.; Averyt, K.B.; Tignor, M.; and Miller, H.L.
+|publisher = Cambridge University Press
+|url  = http://www.ipcc.ch/publications_and_data/ar4/wg1/en/contents.html
+|isbn = 978-0-521-88009-1
+}} (pb: {{ISBNT|978-0-521-70596-7}}).
+
+* {{Citation
+|year   = 2007
+|author = IPCC AR4 WG2
+|author-link = IPCC
+|title  = Climate Change 2007: Impacts, Adaptation and Vulnerability
+|series = Contribution of Working Group II to the [[IPCC Fourth Assessment Report|Fourth Assessment Report]] of the Intergovernmental Panel on Climate Change
+|editor = Parry, M.L.; Canziani, O.F.; Palutikof, J.P.; van der Linden, P.J.; and Hanson, C.E.
+|publisher = Cambridge University Press
+|url  = http://www.ipcc.ch/publications_and_data/ar4/wg2/en/contents.html
+|isbn = 978-0-521-88010-7
+}} (pb: {{ISBNT|978-0-521-70597-4}}).
+* {{Citation
+|year   = 2007
+|author = IPCC AR4 WG3
+|author-link = IPCC
+|title  = Climate Change 2007: Mitigation of Climate Change
+|series = Contribution of Working Group III (WG3) to the [[IPCC Fourth Assessment Report|Fourth Assessment Report]] of the Intergovernmental Panel on Climate Change (IPCC)
+|editor = Metz, B.; Davidson, O.R.; Bosch, P.R.; Dave, R.; and Meyer, L.A.
+|publisher = Cambridge University Press
+|url  = http://www.ipcc.ch/publications_and_data/ar4/wg3/en/contents.html
+|isbn = 978-0-521-88011-4
+}} (pb: {{ISBNT|978-0-521-70598-1}}).
+* {{Citation
+| year   = 2007
+| author = IPCC AR4 SYR
+| author-link = IPCC
+| title  = Climate Change 2007: Synthesis Report
+| series = Contribution of Working Groups I, II and III to the [[IPCC Fourth Assessment Report|Fourth Assessment Report]] of the Intergovernmental Panel on Climate Change
+| editor = Core Writing Team; Pachauri, R.K; and Reisinger, A.
+| publisher = IPCC
+| location=[[Geneva]], [[Switzerland]]
+| url  = http://www.ipcc.ch/publications_and_data/ar4/syr/en/contents.html
+| isbn = 92-9169-122-4
+}}.
+* {{citation
+ | year=2014
+ | author=IPCC AR5 WG2 A
+ | ref=CITEREFIPCC AR5 WG2 A2013
+ | editor=Field, C.B., ''et al.''
+ | title=Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects (GSA). Contribution of Working Group II (WG2) to the Fifth Assessment Report (AR5) of the Intergovernmental Panel on Climate Change (IPCC)
+ | url=http://www.ipcc.ch/report/ar5/wg2/
+ | publisher=Cambridge University Press
+ | ref=harv
+}}. Archived [https://web.archive.org/web/20140625062244/http://ipcc.ch/report/ar5/wg2/ 25 June 2014.]
+
+* {{citation
+ | year=2014
+ | author=IPCC AR5 WG3
+ | ref=CITEREFIPCC AR5 WG3
+ | editor=Edenhofer, O., ''et al.''
+ | title=Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III (WG3) to the Fifth Assessment Report (AR5) of the Intergovernmental Panel on Climate Change (IPCC)
+ | url=http://mitigation2014.org/report/final-draft/
+ | publisher=Cambridge University Press
+ | ref=harv
+}}. Archived [https://web.archive.org/web/20140629152007/http://mitigation2014.org/report/final-draft 29 June 2014.]
+
+*{{citation
+ | author=Ipsos
+ | title=Global Citizen Reaction to the Fukushima Nuclear Plant Disaster (theme: environment / climate) Ipsos Global @dvisor
+ | date=23 June 2011
+ | url=http://www.ipsos-mori.com/Assets/Docs/Polls/ipsos-global-advisor-nuclear-power-june-2011.pdf
+}}. Survey website: [http://www.ipsos-mori.com/researchpublications/researcharchive/2817/Strong-global-opposition-towards-nuclear-power.aspx Ipsos MORI: Poll: Strong global opposition towards nuclear power]
+
+*{{citation
+ | title=Economic mitigation challenges: how further delay closes the door for achieving climate targets
+ | year=2013
+ | author=Luderer, G., ''et al.''
+ | ref=CITEREFLudererothers2013
+ | journal=Environ. Res. Lett.
+ | volume=8
+ | issue=3
+ | url=http://iopscience.iop.org/1748-9326/8/3/034033/
+ | doi=10.1088/1748-9326/8/3/034033
+}}
+
+*{{citation
+ | title=Economic aspects of global warming in a post-Copenhagen environment
+ | date=14 June 2010
+ | author=Nordhaus, W.D.
+ | ref=CITEREFNordhaus2010
+ | journal=PNAS
+ | url=http://www.pnas.org/content/early/2010/06/10/1005985107.abstract
+ | doi=10.1073/pnas.1005985107
+}}. Paper on [https://web.archive.org/web/20140823082658/http://www.econ.yale.edu/~nordhaus/homepage/documents/Copen_020310.pdf Professor Nordhaus's website] (archived [https://web.archive.org/web/20140823082658/http://www.econ.yale.edu/~nordhaus/homepage/documents/Copen_020310.pdf 23 August 2014)].
+
+*{{citation
+ | title=Geoengineering the climate: science, governance and uncertainty
+ | author=UK Royal Society
+ | url=http://royalsociety.org/uploadedFiles/Royal_Society_Content/policy/publications/2009/8693.pdf
+ | publisher=UK Royal Society
+ | location=London
+ | date=September 2009
+ | isbn=978-0-85403-773-5
+}}, RS Policy document 10/09. [http://royalsociety.org/policy/publications/2009/geoengineering-climate/ Report website.]
+
+*{{citation
+ | author=US NRC
+ | year=2011
+ | title=Climate Stabilization Targets: Emissions, Concentrations, and Impacts over Decades to Millennia. A report by the US National Research Council (US NRC)
+ | url=http://www.nap.edu/catalog.php?record_id=12877
+ | publisher=National Academies Press
+ | location=Washington, D.C., USA
+}}
+
+*{{citation
+| date=November 2012
+ | year=2012
+| author=UNEP
+| title=The Emissions Gap Report 2012
+| publisher=United Nations Environment Programme (UNEP)
+| location=Nairobi, Kenya
+| url=http://www.unep.org/pdf/2012gapreport.pdf
+}} Executive summary in [http://www.unep.org/publications/ebooks/emissionsgap2012/ other languages]
+*{{Include-USGov
+ | agency=[[US EPA]]
+ | source={{citation
+ | author=US EPA
+ | date=14 June 2012
+ | title=Glossary of Climate Change Terms: Climate Change: US EPA
+ | publisher=US Environmental Protection Agency (EPA) Climate Change Division
+ | url=http://www.epa.gov/climatechange/glossary.html
+}}
+}}
+
+*{{citation
+ | title=Meeting the 2 degree target. From climate objective to emission reduction measures. PBL publication number 500114012
+ | date=7 December 2009
+ | author=van Vuuren, D.P., ''et al.''
+ | ref=CITEREFvan Vuurenothers2009
+ | publisher=Netherlands Environmental Assessment Agency (Planbureau voor de Leefomgeving (PBL))
+ | url=http://www.pbl.nl/sites/default/files/cms/publicaties/500114012.pdf
+}}. Archived [https://web.archive.org/web/20131102030225/http://www.pbl.nl/sites/default/files/cms/publicaties/500114012.pdf 2 November 2013. [http://www.pbl.nl/node/46765 Report website] (archived [https://web.archive.org/web/20140821023807/http://www.pbl.nl/node/46765 21 August 2014]).
+
+==External links==
+* [http://www.ipcc.ch/ Intergovernmental Panel on Climate Change] – Includes the Working Group III Report "Mitigation of Climate Change" as part of the Fourth Assessment Report
+*[http://www.foreignaffairs.com/articles/65238/jessica-seddon-wallack-and-veerabhadran-ramanathan/the-other-climate-changers Why Black Carbon and Ozone Also Matter], in September/October 2009 [[Foreign Affairs]] with [[Veerabhadran Ramanathan]] and Jessica Seddon Wallack.
+*[http://www.foreignaffairs.com/articles/137523/david-g-victor-charles-f-kennel-veerabhadran-ramanathan/the-climate-threat-we-can-beat The Climate Threat We Can Beat], in May/June 2012 Foreign Affairs with [[David G. Victor]], [[Charles Kennel|Charles F. Kennel]], Veerabhadran Ramanathan.
+* [https://maps.google.com/maps/ms?msid=202977755949863934429.0004e3ea208ca9697ed52&msa=0&ll=19.973349,-1.40625&spn=134.579986,346.289063 Google Map of the Rise, Fall, and Migration of Civilization Due to Climate Change]
+
+===European Union===
+* [[European Union]]'s [http://ec.europa.eu/environment/climat/eccp.htm European Climate Change Programme]
+* [http://ec.europa.eu/environment/climat/future_action.htm EU New Energy Policy]
+* [http://ec.europa.eu/environment/climat/emission.htm European Union Greenhouse Gas Emission Trading Scheme (EU ETS)]
+*[http://ec.europa.eu/environment/co2/co2_home.htm Community strategy to reduce CO2 from light vehicles].
+*UK's [http://www.dti.gov.uk/sectors/environmental/ccpo/ukandclimate/page20657.html Climate Change Programme]
+*[http://www.hm-treasury.gov.uk/independent_reviews/stern_review_economics_climate_change/sternreview_index.cfm The Stern Review on the economics of climate change] – Parts III and IV of the Stern Review are on climate change mitigation
+
+===USA===
+* [http://www.epa.gov/climatechange/wycd/index.html EPA: What You Can Do].
+* [http://www.seattle.gov/mayor/climate/ U.S. Mayors Climate Protection Agreement] signed by 178 mayors representing nearly 40&nbsp;million Americans
+* [http://www.climatechange.ca.gov/ California Climate Change Portal].
+
+===Academic===
+* Rivington M, Matthews KB, Buchan K and Miller D (2005) [http://www.macaulay.ac.uk/LADSS/papers.html?2005 "An integrated assessment approach to investigate options for mitigation and adaptation to climate change at the farm-scale"], NJF Seminar 380, [[Odense]], Denmark, 7–8 November 2005.
+* {{Cite journal|last1 = Jacobson|first1 = M.Z.|last2 = Delucchi|first2 = M.A.|year = 2009|title = A Plan to Power 100 Percent of the Planet with Renewables" (originally published as "A Path to Sustainable Energy by 2030")|url = http://www.scientificamerican.com/article.cfm?id=a-path-to-sustainable-energy-by-2030|journal = Scientific American|volume = 301|issue = 5| pages = 58–65|pmid = 19873905|doi=10.1038/scientificamerican1109-58}}
+*[http://www.scientificamerican.com/article.cfm?id=living-on-a-new-earth Living On a New Earth], [[Scientific American]] April 2010
+*[http://www.globalwarmingnewswire.com/ Global Warming Newswire] – published scientific studies on global warming
+
+{{Global warming}}
+{{Sustainability}}
+
+{{DEFAULTSORT:Climate Change Mitigation}}
+[[Category:Climate change mitigation| ]]
+[[Category:Climate change policy]]
+
+[[hu:A globális felmelegedés csökkentése]]
+[[no:Klimapolitikk]]

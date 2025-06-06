@@ -1,0 +1,130 @@
+Document,Modal_Category,Term,Raw_Count,Normalized_Freq_1000,Total_Words
+AR1_WG3_SPM.spacy,Likelihood,likely,9,0.9952449408382174,9043
+AR1_WG3_SPM.spacy,Likelihood,unlikely,1,0.11058277120424638,9043
+AR1_WG3_SPM.spacy,Modal Verbs,will,38,4.202145305761363,9043
+AR1_WG3_SPM.spacy,Modal Verbs,would,42,4.644476390578348,9043
+AR1_WG3_SPM.spacy,Modal Verbs,may,34,3.7598142209443766,9043
+AR1_WG3_SPM.spacy,Modal Verbs,should,40,4.423310848169855,9043
+AR1_WG3_SPM.spacy,Modal Verbs,must,6,0.6634966272254782,9043
+AR1_WG3_SPM.spacy,Modal Verbs,can,29,3.206900364923145,9043
+AR1_WG3_SPM.spacy,Modal Verbs,could,48,5.307973017803826,9043
+AR1_WG3_SPM.spacy,Modal Verbs,might,8,0.884662169633971,9043
+AR1_WG3_SPM.spacy,Modal Adverbs,perhaps,2,0.22116554240849276,9043
+AR1_WG3_SPM.spacy,Modal Adverbs,apparently,1,0.11058277120424638,9043
+AR1_WG3_SPM.spacy,Modal Adverbs,probably,1,0.11058277120424638,9043
+AR1_WG3_SPM.spacy,Modal Adverbs,possibly,1,0.11058277120424638,9043
+AR1_WG3_SPM.spacy,Negation Near Modal,count,7,0.7740793984297246,9043
+AR2_WG3_SPM.spacy,Likelihood,likely,14,2.4229837313949463,5778
+AR2_WG3_SPM.spacy,Modal Verbs,would,15,2.596053997923157,5778
+AR2_WG3_SPM.spacy,Modal Verbs,can,40,6.922810661128418,5778
+AR2_WG3_SPM.spacy,Modal Verbs,may,45,7.788161993769471,5778
+AR2_WG3_SPM.spacy,Modal Verbs,will,21,3.6344755970924196,5778
+AR2_WG3_SPM.spacy,Modal Verbs,might,12,2.0768431983385254,5778
+AR2_WG3_SPM.spacy,Modal Verbs,could,22,3.8075458636206303,5778
+AR2_WG3_SPM.spacy,Modal Verbs,should,17,2.9421945309795774,5778
+AR2_WG3_SPM.spacy,Modal Verbs,must,8,1.3845621322256838,5778
+AR2_WG3_SPM.spacy,Modal Adverbs,perhaps,3,0.5192107995846313,5778
+AR2_WG3_SPM.spacy,Modal Adverbs,certainly,1,0.17307026652821048,5778
+AR2_WG3_SPM.spacy,Negation Near Modal,count,13,2.249913464866736,5778
+AR3_WG3_SPM.spacy,Likelihood,likely,4,0.7603117278084015,5261
+AR3_WG3_SPM.spacy,Likelihood,unlikely,1,0.19007793195210038,5261
+AR3_WG3_SPM.spacy,Modal Verbs,may,44,8.363429005892415,5261
+AR3_WG3_SPM.spacy,Modal Verbs,can,39,7.413039346131914,5261
+AR3_WG3_SPM.spacy,Modal Verbs,will,22,4.181714502946208,5261
+AR3_WG3_SPM.spacy,Modal Verbs,should,3,0.5702337958563011,5261
+AR3_WG3_SPM.spacy,Modal Verbs,could,12,2.2809351834252043,5261
+AR3_WG3_SPM.spacy,Modal Verbs,would,7,1.3305455236647026,5261
+AR3_WG3_SPM.spacy,Modal Verbs,might,1,0.19007793195210038,5261
+AR3_WG3_SPM.spacy,Modal Verbs,must,1,0.19007793195210038,5261
+AR3_WG3_SPM.spacy,Modal Adverbs,possibly,1,0.19007793195210038,5261
+AR3_WG3_SPM.spacy,Modal Adverbs,perhaps,1,0.19007793195210038,5261
+AR3_WG3_SPM.spacy,Negation Near Modal,count,3,0.5702337958563011,5261
+AR4_WG3_SPM.spacy,Likelihood,likely,4,0.4946821667078902,8086
+AR4_WG3_SPM.spacy,Modal Verbs,can,57,7.0492208755874355,8086
+AR4_WG3_SPM.spacy,Modal Verbs,would,13,1.607717041800643,8086
+AR4_WG3_SPM.spacy,Modal Verbs,will,13,1.607717041800643,8086
+AR4_WG3_SPM.spacy,Modal Verbs,should,1,0.12367054167697256,8086
+AR4_WG3_SPM.spacy,Modal Verbs,could,16,1.978728666831561,8086
+AR4_WG3_SPM.spacy,Modal Verbs,might,4,0.4946821667078902,8086
+AR4_WG3_SPM.spacy,Modal Verbs,may,32,3.957457333663122,8086
+AR4_WG3_SPM.spacy,Modal Adverbs,possibly,1,0.12367054167697256,8086
+AR4_WG3_SPM.spacy,Negation Near Modal,count,4,0.4946821667078902,8086
+AR5_WG3_SPM.spacy,Likelihood,virtually certain,2,0.20220402386007483,9891
+AR5_WG3_SPM.spacy,Likelihood,very likely,2,0.20220402386007483,9891
+AR5_WG3_SPM.spacy,Likelihood,likely,23,2.3253462743908604,9891
+AR5_WG3_SPM.spacy,Likelihood,more likely than not,5,0.505510059650187,9891
+AR5_WG3_SPM.spacy,Likelihood,about as likely as not,6,0.6066120715802245,9891
+AR5_WG3_SPM.spacy,Likelihood,unlikely,12,1.213224143160449,9891
+AR5_WG3_SPM.spacy,Likelihood,very unlikely,1,0.10110201193003741,9891
+AR5_WG3_SPM.spacy,Likelihood,exceptionally unlikely,2,0.20220402386007483,9891
+AR5_WG3_SPM.spacy,Confidence,high confidence,28,2.8308563340410475,9891
+AR5_WG3_SPM.spacy,Confidence,medium confidence,12,1.213224143160449,9891
+AR5_WG3_SPM.spacy,Confidence,low confidence,1,0.10110201193003741,9891
+AR5_WG3_SPM.spacy,Modal Verbs,can,55,5.560610656152058,9891
+AR5_WG3_SPM.spacy,Modal Verbs,may,20,2.022040238600748,9891
+AR5_WG3_SPM.spacy,Modal Verbs,would,8,0.8088160954402993,9891
+AR5_WG3_SPM.spacy,Modal Verbs,should,3,0.3033060357901122,9891
+AR5_WG3_SPM.spacy,Modal Verbs,could,23,2.3253462743908604,9891
+AR5_WG3_SPM.spacy,Modal Verbs,will,10,1.011020119300374,9891
+AR5_WG3_SPM.spacy,Modal Verbs,might,1,0.10110201193003741,9891
+AR5_WG3_SPM.spacy,Modal Adverbs,possibly,3,0.3033060357901122,9891
+AR5_WG3_SPM.spacy,Negation Near Modal,count,9,0.9099181073703367,9891
+AR6_WG3_SPM.spacy,Likelihood,likely,6,0.4187604690117253,14328
+AR6_WG3_SPM.spacy,Confidence,very high confidence,5,0.3489670575097711,14328
+AR6_WG3_SPM.spacy,Confidence,high confidence,190,13.2607481853713,14328
+AR6_WG3_SPM.spacy,Confidence,medium confidence,84,5.862646566164154,14328
+AR6_WG3_SPM.spacy,Confidence,low confidence,1,0.06979341150195421,14328
+AR6_WG3_SPM.spacy,Modal Verbs,will,31,2.163595756560581,14328
+AR6_WG3_SPM.spacy,Modal Verbs,can,121,8.44500279173646,14328
+AR6_WG3_SPM.spacy,Modal Verbs,could,33,2.3031825795644894,14328
+AR6_WG3_SPM.spacy,Modal Verbs,may,20,1.3958682300390843,14328
+AR6_WG3_SPM.spacy,Modal Verbs,would,22,1.5354550530429927,14328
+AR6_WG3_SPM.spacy,Modal Verbs,should,1,0.06979341150195421,14328
+AR6_WG3_SPM.spacy,Modal Verbs,might,1,0.06979341150195421,14328
+AR6_WG3_SPM.spacy,Negation Near Modal,count,5,0.3489670575097711,14328
+Wiki_CCM_2005-06-26.spacy,Likelihood,likely,1,1.3003901170351106,769
+Wiki_CCM_2005-06-26.spacy,Likelihood,unlikely,1,1.3003901170351106,769
+Wiki_CCM_2005-06-26.spacy,Modal Verbs,will,4,5.201560468140443,769
+Wiki_CCM_2005-06-26.spacy,Modal Verbs,would,4,5.201560468140443,769
+Wiki_CCM_2005-06-26.spacy,Modal Verbs,can,1,1.3003901170351106,769
+Wiki_CCM_2005-06-26.spacy,Negation Near Modal,count,1,1.3003901170351106,769
+Wiki_CCM_2008-05-07.spacy,Likelihood,very likely,1,0.2239140170174653,4466
+Wiki_CCM_2008-05-07.spacy,Likelihood,likely,3,0.6717420510523958,4466
+Wiki_CCM_2008-05-07.spacy,Likelihood,unlikely,1,0.2239140170174653,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,would,28,6.269592476489028,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,could,15,3.3587102552619794,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,will,12,2.6869682042095833,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,must,2,0.4478280340349306,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,may,9,2.0152261531571876,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,can,24,5.3739364084191665,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,might,2,0.4478280340349306,4466
+Wiki_CCM_2008-05-07.spacy,Modal Verbs,should,1,0.2239140170174653,4466
+Wiki_CCM_2008-05-07.spacy,Modal Adverbs,perhaps,1,0.2239140170174653,4466
+Wiki_CCM_2008-05-07.spacy,Modal Adverbs,probably,1,0.2239140170174653,4466
+Wiki_CCM_2008-05-07.spacy,Negation Near Modal,count,4,0.8956560680698612,4466
+Wiki_CCM_2014-09-02.spacy,Likelihood,very likely,1,0.12428535918468804,8046
+Wiki_CCM_2014-09-02.spacy,Likelihood,likely,5,0.6214267959234402,8046
+Wiki_CCM_2014-09-02.spacy,Likelihood,unlikely,4,0.49714143673875216,8046
+Wiki_CCM_2014-09-02.spacy,Confidence,high confidence,1,0.12428535918468804,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,may,23,2.8585632612478253,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,can,41,5.09569972657221,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,would,35,4.349987571464081,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,should,6,0.7457121551081282,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,will,15,1.8642803877703207,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,could,23,2.8585632612478253,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,must,2,0.24857071836937608,8046
+Wiki_CCM_2014-09-02.spacy,Modal Verbs,might,4,0.49714143673875216,8046
+Wiki_CCM_2014-09-02.spacy,Modal Adverbs,probably,3,0.3728560775540641,8046
+Wiki_CCM_2014-09-02.spacy,Negation Near Modal,count,3,0.3728560775540641,8046
+Wiki_CCM_2022-06-13.spacy,Likelihood,likely,8,0.7350914269962326,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,can,100,9.188642837452909,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,may,38,3.491684278232105,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,would,39,3.583570706606634,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,should,7,0.6432049986217035,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,might,1,0.09188642837452908,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,must,9,0.8269778553707617,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,could,55,5.053753560599099,10883
+Wiki_CCM_2022-06-13.spacy,Modal Verbs,will,29,2.6647064228613435,10883
+Wiki_CCM_2022-06-13.spacy,Modal Adverbs,perhaps,1,0.09188642837452908,10883
+Wiki_CCM_2022-06-13.spacy,Modal Adverbs,probably,1,0.09188642837452908,10883
+Wiki_CCM_2022-06-13.spacy,Negation Near Modal,count,7,0.6432049986217035,10883

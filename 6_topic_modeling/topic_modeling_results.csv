@@ -1,0 +1,11 @@
+Document_Name,Assigned_Topic_ID,Topic,Name,Representation
+AR6_WG3_SPM,1,1,1_emission_high_confidence_mitigation,"['emission', 'high', 'confidence', 'mitigation', 'cost', 'ghg', 'global', 'change', 'energy', 'climate']"
+Wiki_CCM_2014-09-02,0,0,0_emission_energy_carbon_climate,"['emission', 'energy', 'carbon', 'climate', 'change', 'global', 'gas', 'mitigation', 'cost', 'reduce']"
+Wiki_CCM_2022-06-13,0,0,0_emission_energy_carbon_climate,"['emission', 'energy', 'carbon', 'climate', 'change', 'global', 'gas', 'mitigation', 'cost', 'reduce']"
+AR2_WG3_SPM,1,1,1_emission_high_confidence_mitigation,"['emission', 'high', 'confidence', 'mitigation', 'cost', 'ghg', 'global', 'change', 'energy', 'climate']"
+AR4_WG3_SPM,0,0,0_emission_energy_carbon_climate,"['emission', 'energy', 'carbon', 'climate', 'change', 'global', 'gas', 'mitigation', 'cost', 'reduce']"
+AR1_WG3_SPM,-1,-1,-1_emission_gas_change_greenhouse,"['emission', 'gas', 'change', 'greenhouse', 'country', 'climate', 'develop', 'energy', 'use', 'resource']"
+AR5_WG3_SPM,1,1,1_emission_high_confidence_mitigation,"['emission', 'high', 'confidence', 'mitigation', 'cost', 'ghg', 'global', 'change', 'energy', 'climate']"
+AR3_WG3_SPM,0,0,0_emission_energy_carbon_climate,"['emission', 'energy', 'carbon', 'climate', 'change', 'global', 'gas', 'mitigation', 'cost', 'reduce']"
+Wiki_CCM_2005-06-26,0,0,0_emission_energy_carbon_climate,"['emission', 'energy', 'carbon', 'climate', 'change', 'global', 'gas', 'mitigation', 'cost', 'reduce']"
+Wiki_CCM_2008-05-07,0,0,0_emission_energy_carbon_climate,"['emission', 'energy', 'carbon', 'climate', 'change', 'global', 'gas', 'mitigation', 'cost', 'reduce']"
