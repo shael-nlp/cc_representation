@@ -1,6 +1,6 @@
-# Master's Thesis: Climate Change Representation in IPCC Reports and Wikipedia:
-## A Comparative Analysis Through Natural Language Processing
-### Code Repository
+# Master's Thesis
+## Climate Change Representation in IPCC Reports and Wikipedia: A Comparative Analysis Through Natural Language Processing
+### Thesis Code Repository
 
 #### This code repository contains 3 directories:
 - corpus
@@ -9,38 +9,54 @@
 
 #### Corpus
 The *corpus* directory contains all corpus versions used in the analyses.
+
 **Note:** IPCC documents are not included in this repository due to copyright restrictions.
+
 The corpus directory contains 4 subfolders:
 - A_raw_corpus
+
 This folder contains the initially obtained raw texts following data acquisition (Section 3.2.1).
 - B_cleaned_corpus
+
 This folder contains the cleaned raw texts (Section 3.2.1).
 - C_preprocessed_docbin_obj
+
 This folder contains preprocessed texts saved to disk as spaCy `Doc` objects using the `DocBin` class in spaCy. These are used for most of the analyses (Section 3.2.2).
 - D_semantic_chunking
+
 This folder contains cleaned raw texts that were semantically chunked for Sentiment Analysis and Emotion Detection (Section 3.3.5), and also used in Named Entity Recognition analysis (Section 3.3.6).
 
 #### Python code
 The *python_scripts* directory contains the complete set of Python scripts employed in the analyses.
 - 0_data_visualisation.py
+
 This script was used for figure generation and does not correspond to any particular section.
 - 1_convert_AR6_to_text.py
+
 Used for raw text retrieval from the AR6 WG3 SPM PDF (Section 3.2.1).
 - 1_wikipedia_extract_to_text.py
+
 Used to extract articles from Wikipedia and save them as raw text (Section 3.2.1).
 - 2_preprocessing.py
+
 Used to preprocess the corpus using spaCy (Section 3.2.2).
 - 3_lexicometry.py
+
 Used to generate lexicometric, stylistic, and readability analysis results (Section 3.3.1 for methodology; Section 4.1 for results).
 - 4_modality.py
+
 Used to compute frequencies for the modality analysis (Sections 3.3.2 and 4.2).
 - 5_semantic_similarity.py
+
 Used to compare semantic similarity between selected text pairs (Sections 3.3.3 and 4.3).
 - 6_topic_modeling.py
+
 Used to perform topic modelling on the corpus (Sections 3.3.4 and 4.4).
 - 7_sentiment_emotion.py
+
 Used for sentiment analysis and emotion detection (Sections 3.3.5 and 4.5).
 - 8_NER.py
+
 Used for named entity recognition and analysis (Sections 3.3.6 and 4.6).
 
 #### Results
