@@ -1,7 +1,7 @@
 # Master's Thesis
 ## Climate Change Representation in IPCC Reports and Wikipedia: A Comparative Analysis Through Natural Language Processing
 ### Thesis Code Repository
-
+You may ask for my paper by messaging me :)
 ### This code repository contains 3 directories:
 - corpus
 - python_scripts
