@@ -15,7 +15,7 @@ The *corpus* directory contains all corpus versions used in the analyses.
 The corpus directory contains 4 subfolders:
 - A_raw_corpus
 
-This folder contains the initially obtained raw texts following data acquisition (Section 3.2.1).
+This folder contains the initially obtained raw texts following data acquisition (Master's Thesis, Section 3.2.1).
 - B_cleaned_corpus
 
 This folder contains the cleaned raw texts (Section 3.2.1).
